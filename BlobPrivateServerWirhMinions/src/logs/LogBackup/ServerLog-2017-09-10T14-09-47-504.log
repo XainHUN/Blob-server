@@ -1,0 +1,57 @@
+=== Started 2017-09-10T14-06-45-599 ===
+[INFO ][14:06:45] [1m[32mMultiOgar 1.3.7[37m - An open source multi-protocol ogar server[0m
+[ERROR][14:06:45] Unknown gameserver.ini value: serverVersionCode
+[ERROR][14:06:45] Unknown gameserver.ini value: separateChatForTeams
+[ERROR][14:06:45] Unknown gameserver.ini value: ejectDistance
+[ERROR][14:06:45] Unknown gameserver.ini value: tourneyMaxPlayers
+[ERROR][14:06:45] Unknown gameserver.ini value: tourneyPrepTime
+[ERROR][14:06:45] Unknown gameserver.ini value: tourneyEndTime
+[ERROR][14:06:45] Unknown gameserver.ini value: tourneyTimeLimit
+[ERROR][14:06:45] Unknown gameserver.ini value: tourneyAutoFill
+[ERROR][14:06:45] Unknown gameserver.ini value: tourneyAutoFillPlayers
+[INFO ][14:06:45] 0 IP ban records loaded.
+[WARN ][14:06:45] User account "Local Administrator" disabled
+[WARN ][14:06:45] User account "Local Moderator" disabled
+[WARN ][14:06:45] User account "Local User" disabled
+[INFO ][14:06:45] 0 user records loaded.
+[INFO ][14:06:45] 25 bad words loaded
+[INFO ][14:06:45] WebSocket: ws
+[INFO ][14:06:45] Started stats server on port 9999
+[INFO ][14:06:45] Listening on port 1111
+[INFO ][14:06:45] Current game mode is Free For All
+[ERROR][14:06:46] [Tracker][ogar-tracker.tk]: statusCode = 403
+[ERROR][14:06:46] [Tracker][ogar-tracker.tk]: statusCode = 403
+[ERROR][14:06:46] [Tracker][ogar-tracker.tk]: statusCode = 403
+[ERROR][14:06:46] [Tracker][ogar-tracker.tk]: statusCode = 403
+[ERROR][14:06:46] [Tracker][c0nsume.me]: statusCode = 400
+[ERROR][14:06:46] [Tracker][c0nsume.me]: statusCode = 400
+[ERROR][14:06:46] [Tracker][c0nsume.me]: statusCode = 400
+[ERROR][14:06:46] [Tracker][c0nsume.me]: statusCode = 400
+[ERROR][14:06:57] [Tracker][ogar-tracker.tk]: statusCode = 403
+[ERROR][14:06:57] [Tracker][c0nsume.me]: statusCode = 400
+[ERROR][14:06:57] [Tracker][c0nsume.me]: statusCode = 400
+[ERROR][14:06:57] [Tracker][ogar-tracker.tk]: statusCode = 403
+[ERROR][14:06:57] [Tracker][c0nsume.me]: statusCode = 400
+[ERROR][14:06:57] [Tracker][ogar-tracker.tk]: statusCode = 403
+[ERROR][14:06:57] [Tracker][c0nsume.me]: statusCode = 400
+[ERROR][14:07:09] [Tracker][c0nsume.me]: statusCode = 400
+[ERROR][14:07:09] [Tracker][ogar-tracker.tk]: statusCode = 403
+[ERROR][14:07:09] [Tracker][c0nsume.me]: statusCode = 400
+[ERROR][14:07:09] [Tracker][c0nsume.me]: statusCode = 400
+[ERROR][14:07:09] [Tracker][ogar-tracker.tk]: statusCode = 403
+[ERROR][14:07:09] [Tracker][ogar-tracker.tk]: statusCode = 403
+[ERROR][14:07:09] [Tracker][c0nsume.me]: statusCode = 400
+[NONE ][14:07:14] CONNECTED    127.0.0.1:57206, origin: "undefined"
+[FATAL][14:07:15] TypeError: Cannot read property 'unshift' of undefined
+    at Cell.PlayerCell.onAdd (/storage/emulated/0/Android/data/com.termux/BlobServer/src/entity/PlayerCell.js:78:32)
+    at GameServer.addNode (/storage/emulated/0/Android/data/com.termux/BlobServer/src/GameServer.js:236:10)
+    at GameServer.spawnPlayer (/storage/emulated/0/Android/data/com.termux/BlobServer/src/GameServer.js:1062:10)
+    at Mode.FFA.onPlayerSpawn (/storage/emulated/0/Android/data/com.termux/BlobServer/src/gamemodes/FFA.js:39:16)
+    at PlayerTracker.joinGame (/storage/emulated/0/Android/data/com.termux/BlobServer/src/PlayerTracker.js:228:30)
+    at PacketHandler.setNickname (/storage/emulated/0/Android/data/com.termux/BlobServer/src/PacketHandler.js:361:31)
+    at PacketHandler.message_onJoin (/storage/emulated/0/Android/data/com.termux/BlobServer/src/PacketHandler.js:105:10)
+    at PacketHandler.handleMessage (/storage/emulated/0/Android/data/com.termux/BlobServer/src/PacketHandler.js:34:29)
+    at GameServer.onClientSocketMessage (/storage/emulated/0/Android/data/com.termux/BlobServer/src/GameServer.js:374:22)
+    at WebSocket.onMessage (/storage/emulated/0/Android/data/com.termux/BlobServer/src/GameServer.js:292:14)
+[DEBUG][14:07:15] process.exit(1)
+=== Shutdown 2017-09-10T14-07-15-609 ===

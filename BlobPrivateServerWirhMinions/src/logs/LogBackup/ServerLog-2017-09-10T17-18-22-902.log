@@ -1,0 +1,101 @@
+=== Started 2017-09-10T17-16-42-927 ===
+[INFO ][17:16:42] [1m[32mMultiOgar 1.3.7[37m - An open source multi-protocol ogar server[0m
+[ERROR][17:16:43] Unknown gameserver.ini value: serverVersionCode
+[ERROR][17:16:43] Unknown gameserver.ini value: separateChatForTeams
+[ERROR][17:16:43] Unknown gameserver.ini value: ejectDistance
+[ERROR][17:16:43] Unknown gameserver.ini value: tourneyMaxPlayers
+[ERROR][17:16:43] Unknown gameserver.ini value: tourneyPrepTime
+[ERROR][17:16:43] Unknown gameserver.ini value: tourneyEndTime
+[ERROR][17:16:43] Unknown gameserver.ini value: tourneyTimeLimit
+[ERROR][17:16:43] Unknown gameserver.ini value: tourneyAutoFill
+[ERROR][17:16:43] Unknown gameserver.ini value: tourneyAutoFillPlayers
+[INFO ][17:16:43] 0 IP ban records loaded.
+[WARN ][17:16:43] User account "Local Administrator" disabled
+[WARN ][17:16:43] User account "Local Moderator" disabled
+[WARN ][17:16:43] User account "Local User" disabled
+[INFO ][17:16:43] 0 user records loaded.
+[INFO ][17:16:43] 25 bad words loaded
+[INFO ][17:16:43] WebSocket: ws
+[INFO ][17:16:43] Started stats server on port 9999
+[INFO ][17:16:43] Listening on port 1111
+[INFO ][17:16:43] Current game mode is Experimental
+[ERROR][17:16:43] [Tracker][c0nsume.me]: statusCode = 400
+[ERROR][17:16:43] [Tracker][ogar-tracker.tk]: statusCode = 403
+[ERROR][17:16:43] [Tracker][c0nsume.me]: statusCode = 400
+[ERROR][17:16:43] [Tracker][ogar-tracker.tk]: statusCode = 403
+[ERROR][17:16:43] [Tracker][ogar-tracker.tk]: statusCode = 403
+[ERROR][17:16:43] [Tracker][c0nsume.me]: statusCode = 400
+[ERROR][17:16:43] [Tracker][ogar-tracker.tk]: statusCode = 403
+[ERROR][17:16:43] [Tracker][c0nsume.me]: statusCode = 400
+[ERROR][17:16:54] [Tracker][c0nsume.me]: statusCode = 400
+[ERROR][17:16:54] [Tracker][ogar-tracker.tk]: statusCode = 403
+[ERROR][17:16:54] [Tracker][c0nsume.me]: statusCode = 400
+[ERROR][17:16:55] [Tracker][ogar-tracker.tk]: statusCode = 403
+[ERROR][17:16:55] [Tracker][ogar-tracker.tk]: statusCode = 403
+[ERROR][17:16:55] [Tracker][c0nsume.me]: statusCode = 400
+[ERROR][17:16:55] [Tracker][c0nsume.me]: statusCode = 400
+[ERROR][17:17:06] [Tracker][c0nsume.me]: statusCode = 400
+[ERROR][17:17:06] [Tracker][ogar-tracker.tk]: statusCode = 403
+[ERROR][17:17:06] [Tracker][ogar-tracker.tk]: statusCode = 403
+[ERROR][17:17:06] [Tracker][c0nsume.me]: statusCode = 400
+[ERROR][17:17:06] [Tracker][c0nsume.me]: statusCode = 400
+[ERROR][17:17:06] [Tracker][ogar-tracker.tk]: statusCode = 403
+[ERROR][17:17:06] [Tracker][c0nsume.me]: statusCode = 400
+[NONE ][17:17:07] CONNECTED    127.0.0.1:54141, origin: "undefined"
+[ERROR][17:17:18] [Tracker][c0nsume.me]: statusCode = 400
+[ERROR][17:17:18] [Tracker][ogar-tracker.tk]: statusCode = 403
+[ERROR][17:17:18] [Tracker][ogar-tracker.tk]: statusCode = 403
+[ERROR][17:17:18] [Tracker][c0nsume.me]: statusCode = 400
+[ERROR][17:17:18] [Tracker][c0nsume.me]: statusCode = 400
+[ERROR][17:17:18] [Tracker][c0nsume.me]: statusCode = 400
+[ERROR][17:17:18] [Tracker][ogar-tracker.tk]: statusCode = 403
+[NONE ][17:17:21] >merge
+[WARN ][17:17:21] Please specify a valid player ID!
+[NONE ][17:17:24] >merge 1
+[NONE ][17:17:24] DeezNuts is now force merging
+[ERROR][17:17:25] [Tracker][ogar-tracker.tk]: Error: connect ETIMEDOUT 195.20.46.84:80
+[ERROR][17:17:29] [Tracker][c0nsume.me]: statusCode = 400
+[ERROR][17:17:29] [Tracker][ogar-tracker.tk]: statusCode = 403
+[ERROR][17:17:29] [Tracker][ogar-tracker.tk]: statusCode = 403
+[ERROR][17:17:29] [Tracker][c0nsume.me]: statusCode = 400
+[ERROR][17:17:29] [Tracker][c0nsume.me]: statusCode = 400
+[ERROR][17:17:29] [Tracker][c0nsume.me]: statusCode = 400
+[ERROR][17:17:29] [Tracker][ogar-tracker.tk]: statusCode = 403
+[ERROR][17:17:37] [Tracker][ogar-tracker.tk]: Error: connect ETIMEDOUT 195.20.46.84:80
+[ERROR][17:17:41] [Tracker][c0nsume.me]: statusCode = 400
+[ERROR][17:17:41] [Tracker][ogar-tracker.tk]: statusCode = 403
+[ERROR][17:17:41] [Tracker][c0nsume.me]: statusCode = 400
+[ERROR][17:17:41] [Tracker][ogar-tracker.tk]: statusCode = 403
+[ERROR][17:17:41] [Tracker][ogar-tracker.tk]: statusCode = 403
+[ERROR][17:17:41] [Tracker][c0nsume.me]: statusCode = 400
+[ERROR][17:17:41] [Tracker][ogar-tracker.tk]: statusCode = 403
+[ERROR][17:17:41] [Tracker][c0nsume.me]: statusCode = 400
+[ERROR][17:17:49] [Tracker][ogar-tracker.tk]: Error: connect ETIMEDOUT 195.20.46.84:80
+[ERROR][17:17:52] [Tracker][ogar-tracker.tk]: statusCode = 403
+[ERROR][17:17:52] [Tracker][c0nsume.me]: statusCode = 400
+[ERROR][17:17:52] [Tracker][ogar-tracker.tk]: statusCode = 403
+[ERROR][17:17:52] [Tracker][c0nsume.me]: statusCode = 400
+[ERROR][17:17:52] [Tracker][ogar-tracker.tk]: statusCode = 403
+[ERROR][17:17:52] [Tracker][c0nsume.me]: statusCode = 400
+[ERROR][17:17:52] [Tracker][c0nsume.me]: statusCode = 400
+[ERROR][17:17:52] [Tracker][ogar-tracker.tk]: statusCode = 403
+[ERROR][17:18:00] [Tracker][ogar-tracker.tk]: Error: connect ETIMEDOUT 195.20.46.84:80
+[ERROR][17:18:04] [Tracker][c0nsume.me]: statusCode = 400
+[ERROR][17:18:04] [Tracker][ogar-tracker.tk]: statusCode = 403
+[ERROR][17:18:04] [Tracker][ogar-tracker.tk]: statusCode = 403
+[ERROR][17:18:04] [Tracker][c0nsume.me]: statusCode = 400
+[ERROR][17:18:04] [Tracker][ogar-tracker.tk]: statusCode = 403
+[ERROR][17:18:04] [Tracker][c0nsume.me]: statusCode = 400
+[ERROR][17:18:04] [Tracker][ogar-tracker.tk]: statusCode = 403
+[ERROR][17:18:04] [Tracker][c0nsume.me]: statusCode = 400
+[ERROR][17:18:15] [Tracker][c0nsume.me]: statusCode = 400
+[ERROR][17:18:15] [Tracker][ogar-tracker.tk]: statusCode = 403
+[ERROR][17:18:15] [Tracker][c0nsume.me]: statusCode = 400
+[ERROR][17:18:15] [Tracker][ogar-tracker.tk]: statusCode = 403
+[ERROR][17:18:15] [Tracker][c0nsume.me]: statusCode = 400
+[ERROR][17:18:15] [Tracker][ogar-tracker.tk]: statusCode = 403
+[ERROR][17:18:15] [Tracker][c0nsume.me]: statusCode = 400
+[NONE ][17:18:18] >exit
+[WARN ][17:18:18] Closing server...
+[DEBUG][17:18:18] process.exit(1)
+=== Shutdown 2017-09-10T17-18-18-689 ===

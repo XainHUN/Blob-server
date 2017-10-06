@@ -1,0 +1,15 @@
+=== Started 2016-11-29T07-52-54-646 ===
+[INFO ][07:52:54] 0 IP ban records loaded.
+[WARN ][07:52:54] User account "Local Administrator" disabled
+[WARN ][07:52:54] User account "Local Moderator" disabled
+[WARN ][07:52:54] User account "Local User" disabled
+[INFO ][07:52:54] 0 user records loaded.
+[INFO ][07:52:54] 25 bad words loaded
+[INFO ][07:52:54] [1m[32mMultiOgar-Edited 1.3.7[37m - An open source multi-protocol ogar server Credit to MineMoore and MegaByte918[0m
+[INFO ][07:52:54] WebSocket: ws
+[INFO ][07:52:54] Started stats server on port 88
+[INFO ][07:52:54] Listening on port 777
+[INFO ][07:52:54] Current game mode is Free For All
+[NONE ][07:52:58] CONNECTED    127.0.0.1:64590, origin: "http://alis.io"
+[NONE ][07:53:08] >minion 1 1500 
+[NONE ][07:53:08] Added 1500 minions for MineMooreYT

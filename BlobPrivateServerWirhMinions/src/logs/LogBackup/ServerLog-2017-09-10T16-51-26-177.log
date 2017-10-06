@@ -1,0 +1,51 @@
+=== Started 2017-09-10T16-43-15-931 ===
+[INFO ][16:43:15] [1m[32mMultiOgar 1.3.7[37m - An open source multi-protocol ogar server[0m
+[ERROR][16:43:16] Unknown gameserver.ini value: serverVersionCode
+[ERROR][16:43:16] Unknown gameserver.ini value: separateChatForTeams
+[ERROR][16:43:16] Unknown gameserver.ini value: ejectDistance
+[ERROR][16:43:16] Unknown gameserver.ini value: tourneyMaxPlayers
+[ERROR][16:43:16] Unknown gameserver.ini value: tourneyPrepTime
+[ERROR][16:43:16] Unknown gameserver.ini value: tourneyEndTime
+[ERROR][16:43:16] Unknown gameserver.ini value: tourneyTimeLimit
+[ERROR][16:43:16] Unknown gameserver.ini value: tourneyAutoFill
+[ERROR][16:43:16] Unknown gameserver.ini value: tourneyAutoFillPlayers
+[INFO ][16:43:16] 0 IP ban records loaded.
+[WARN ][16:43:16] User account "Local Administrator" disabled
+[WARN ][16:43:16] User account "Local Moderator" disabled
+[WARN ][16:43:16] User account "Local User" disabled
+[INFO ][16:43:16] 0 user records loaded.
+[INFO ][16:43:16] 25 bad words loaded
+[INFO ][16:43:16] WebSocket: ws
+[INFO ][16:43:16] Started stats server on port 9999
+[INFO ][16:43:16] Listening on port 1111
+[INFO ][16:43:16] Current game mode is Experimental
+[ERROR][16:43:16] [Tracker][c0nsume.me]: statusCode = 400
+[ERROR][16:43:16] [Tracker][ogar-tracker.tk]: statusCode = 403
+[ERROR][16:43:16] [Tracker][ogar-tracker.tk]: statusCode = 403
+[ERROR][16:43:16] [Tracker][ogar-tracker.tk]: statusCode = 403
+[ERROR][16:43:16] [Tracker][ogar-tracker.tk]: statusCode = 403
+[ERROR][16:43:16] [Tracker][c0nsume.me]: statusCode = 400
+[ERROR][16:43:16] [Tracker][c0nsume.me]: statusCode = 400
+[ERROR][16:43:17] [Tracker][c0nsume.me]: statusCode = 400
+[ERROR][16:43:27] [Tracker][c0nsume.me]: statusCode = 400
+[ERROR][16:43:27] [Tracker][c0nsume.me]: statusCode = 400
+[ERROR][16:43:27] [Tracker][ogar-tracker.tk]: statusCode = 403
+[ERROR][16:43:28] [Tracker][ogar-tracker.tk]: statusCode = 403
+[ERROR][16:43:28] [Tracker][c0nsume.me]: statusCode = 400
+[ERROR][16:43:28] [Tracker][ogar-tracker.tk]: statusCode = 403
+[ERROR][16:43:28] [Tracker][c0nsume.me]: statusCode = 400
+[ERROR][16:43:31] [Tracker][ogar-tracker.tk]: statusCode = 403
+[NONE ][16:43:34] CONNECTED    127.0.0.1:39344, origin: "undefined"
+[FATAL][16:43:39] TypeError: from.socket.playerCommand.executeCommandLine is not a function
+    at GameServer.onChatMessage (/storage/emulated/0/Android/data/com.termux/BlobPrivateServerWirhMinions/src/GameServer.js:545:35)
+    at PacketHandler.message_onChat (/storage/emulated/0/Android/data/com.termux/BlobPrivateServerWirhMinions/src/PacketHandler.js:260:21)
+    at PacketHandler.handleMessage (/storage/emulated/0/Android/data/com.termux/BlobPrivateServerWirhMinions/src/PacketHandler.js:34:29)
+    at GameServer.onClientSocketMessage (/storage/emulated/0/Android/data/com.termux/BlobPrivateServerWirhMinions/src/GameServer.js:378:22)
+    at WebSocket.onMessage (/storage/emulated/0/Android/data/com.termux/BlobPrivateServerWirhMinions/src/GameServer.js:296:14)
+    at emitTwo (events.js:106:13)
+    at WebSocket.emit (events.js:191:7)
+    at Receiver.onbinary (/storage/emulated/0/Android/data/com.termux/BlobPrivateServerWirhMinions/node_modules/ws/lib/WebSocket.js:848:10)
+    at /storage/emulated/0/Android/data/com.termux/BlobPrivateServerWirhMinions/node_modules/ws/lib/Receiver.js:628:18
+    at Receiver.applyExtensions (/storage/emulated/0/Android/data/com.termux/BlobPrivateServerWirhMinions/node_modules/ws/lib/Receiver.js:371:5)
+[DEBUG][16:43:39] process.exit(1)
+=== Shutdown 2017-09-10T16-43-39-251 ===

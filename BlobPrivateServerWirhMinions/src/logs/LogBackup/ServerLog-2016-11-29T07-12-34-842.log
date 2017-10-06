@@ -1,0 +1,27 @@
+=== Started 2016-11-29T06-59-15-233 ===
+[INFO ][06:59:15] 0 IP ban records loaded.
+[WARN ][06:59:15] User account "Local Administrator" disabled
+[WARN ][06:59:15] User account "Local Moderator" disabled
+[WARN ][06:59:15] User account "Local User" disabled
+[INFO ][06:59:15] 0 user records loaded.
+[INFO ][06:59:15] 25 bad words loaded
+[INFO ][06:59:15] [1m[32mMultiOgar-Edited 1.3.7[37m - An open source multi-protocol ogar server Credit to MineMoore and MegaByte918[0m
+[INFO ][06:59:15] WebSocket: ws
+[INFO ][06:59:15] Started stats server on port 88
+[INFO ][06:59:15] Listening on port 777
+[INFO ][06:59:15] Current game mode is Free For All
+[NONE ][06:59:17] CONNECTED    127.0.0.1:56997, origin: "http://agar.io"
+[NONE ][06:59:45] DISCONNECTED 127.0.0.1:56997, code: 1006, reason: "", name: "MineMoore++"
+[NONE ][07:00:13] CONNECTED    127.0.0.1:57120, origin: "http://agar.io"
+[NONE ][07:02:08] DISCONNECTED 127.0.0.1:57120, code: 1006, reason: "", name: "MineMoore++"
+[NONE ][07:02:12] CONNECTED    127.0.0.1:57377, origin: "http://agar.io"
+[NONE ][07:03:22] DISCONNECTED 127.0.0.1:57377, code: 1006, reason: "", name: "MineMoore++"
+[NONE ][07:03:24] CONNECTED    127.0.0.1:57513, origin: "http://alis.io"
+[NONE ][07:04:19] >playerlist
+[NONE ][07:04:19] Current players: 16
+[NONE ][07:04:19] Do "playerlist m" or "pl m" to list minions
+[NONE ][07:04:19]  ID     | IP              | P | NICK            | CELLS | SCORE  | POSITION    
+[NONE ][07:04:19] -------------------------------------------------------------------------------
+[NONE ][07:04:19]      49 | 127.0.0.1       | 5 | MineMooreYT     |     1 |   1285 |  2288, -2246
+[NONE ][07:04:23] >minion 49 1000
+[NONE ][07:04:23] Added 1000 minions for MineMooreYT

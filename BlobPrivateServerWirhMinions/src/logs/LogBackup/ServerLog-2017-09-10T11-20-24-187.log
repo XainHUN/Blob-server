@@ -1,0 +1,17 @@
+=== Started 2016-11-28T20-05-16-786 ===
+[INFO ][20:05:16] 0 IP ban records loaded.
+[WARN ][20:05:16] User account "Local Administrator" disabled
+[WARN ][20:05:16] User account "Local Moderator" disabled
+[WARN ][20:05:16] User account "Local User" disabled
+[INFO ][20:05:16] 0 user records loaded.
+[INFO ][20:05:16] 25 bad words loaded
+[INFO ][20:05:16] [1m[32mMultiOgar-Edited 1.3.7[37m - An open source multi-protocol ogar server Credit to MineMoore and MegaByte918[0m
+[INFO ][20:05:16] WebSocket: ws
+[INFO ][20:05:16] Started stats server on port 88
+[INFO ][20:05:16] Listening on port 777
+[INFO ][20:05:16] Current game mode is Free For All
+[NONE ][20:05:16] CONNECTED    127.0.0.1:50904, origin: "http://agar.io"
+[NONE ][20:05:18] DISCONNECTED 127.0.0.1:50904, code: 1000, reason: "", name: ""
+[NONE ][20:05:18] CONNECTED    127.0.0.1:50910, origin: "http://agar.io"
+[NONE ][20:05:20] DISCONNECTED 127.0.0.1:50910, code: 1000, reason: "", name: ""
+[NONE ][20:05:21] CONNECTED    127.0.0.1:50914, origin: "http://agar.io"

@@ -1,0 +1,30 @@
+=== Started 2016-11-29T07-37-33-354 ===
+[INFO ][07:37:33] 0 IP ban records loaded.
+[WARN ][07:37:33] User account "Local Administrator" disabled
+[WARN ][07:37:33] User account "Local Moderator" disabled
+[WARN ][07:37:33] User account "Local User" disabled
+[INFO ][07:37:33] 0 user records loaded.
+[INFO ][07:37:33] 25 bad words loaded
+[INFO ][07:37:33] [1m[32mMultiOgar-Edited 1.3.7[37m - An open source multi-protocol ogar server Credit to MineMoore and MegaByte918[0m
+[INFO ][07:37:33] WebSocket: ws
+[INFO ][07:37:33] Started stats server on port 88
+[INFO ][07:37:33] Listening on port 777
+[INFO ][07:37:33] Current game mode is Free For All
+[NONE ][07:37:54] CONNECTED    127.0.0.1:62583, origin: "http://alis.io"
+[NONE ][07:38:05] DISCONNECTED 127.0.0.1:62583, code: 1006, reason: "undefined", name: "MineMooreYT"
+[NONE ][07:38:06] CONNECTED    127.0.0.1:62624, origin: "http://alis.io"
+[NONE ][07:41:17] DISCONNECTED 127.0.0.1:62624, code: 1006, reason: "", name: ""
+[NONE ][07:41:17] CONNECTED    127.0.0.1:63047, origin: "http://alis.io"
+[NONE ][07:41:32] DISCONNECTED 127.0.0.1:63047, code: 1006, reason: "", name: ""
+[NONE ][07:41:32] CONNECTED    127.0.0.1:63087, origin: "http://alis.io"
+[NONE ][07:41:41] DISCONNECTED 127.0.0.1:63087, code: 1006, reason: "", name: ""
+[NONE ][07:46:03] CONNECTED    127.0.0.1:63670, origin: "http://alis.io"
+[NONE ][07:48:12] >minion 1 1000
+[NONE ][07:48:16] >playerlist
+[NONE ][07:48:16] Current players: 16
+[NONE ][07:48:16] Do "playerlist m" or "pl m" to list minions
+[NONE ][07:48:16]  ID     | IP              | P | NICK            | CELLS | SCORE  | POSITION    
+[NONE ][07:48:16] -------------------------------------------------------------------------------
+[NONE ][07:48:16]      65 | 127.0.0.1       | 5 | MineMooreYT     |    16 |   2071 | -1272, -5382
+[NONE ][07:48:24] >minion 65 1000 
+[NONE ][07:48:24] Added 1000 minions for MineMooreYT

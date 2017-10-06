@@ -1,0 +1,184 @@
+=== Started 2017-09-10T14-11-51-742 ===
+[INFO ][14:11:51] [1m[32mMultiOgar 1.3.7[37m - An open source multi-protocol ogar server[0m
+[ERROR][14:11:51] Unknown gameserver.ini value: serverVersionCode
+[ERROR][14:11:51] Unknown gameserver.ini value: separateChatForTeams
+[ERROR][14:11:51] Unknown gameserver.ini value: ejectDistance
+[ERROR][14:11:51] Unknown gameserver.ini value: tourneyMaxPlayers
+[ERROR][14:11:51] Unknown gameserver.ini value: tourneyPrepTime
+[ERROR][14:11:51] Unknown gameserver.ini value: tourneyEndTime
+[ERROR][14:11:51] Unknown gameserver.ini value: tourneyTimeLimit
+[ERROR][14:11:51] Unknown gameserver.ini value: tourneyAutoFill
+[ERROR][14:11:51] Unknown gameserver.ini value: tourneyAutoFillPlayers
+[INFO ][14:11:51] 0 IP ban records loaded.
+[WARN ][14:11:51] User account "Local Administrator" disabled
+[WARN ][14:11:51] User account "Local Moderator" disabled
+[WARN ][14:11:51] User account "Local User" disabled
+[INFO ][14:11:51] 0 user records loaded.
+[INFO ][14:11:51] 25 bad words loaded
+[INFO ][14:11:51] WebSocket: ws
+[INFO ][14:11:52] Started stats server on port 9999
+[INFO ][14:11:52] Listening on port 1111
+[INFO ][14:11:52] Current game mode is Free For All
+[ERROR][14:11:52] [Tracker][c0nsume.me]: statusCode = 400
+[ERROR][14:11:52] [Tracker][c0nsume.me]: statusCode = 400
+[ERROR][14:11:52] [Tracker][ogar-tracker.tk]: statusCode = 403
+[ERROR][14:11:52] [Tracker][ogar-tracker.tk]: statusCode = 403
+[ERROR][14:11:52] [Tracker][ogar-tracker.tk]: statusCode = 403
+[ERROR][14:11:52] [Tracker][c0nsume.me]: statusCode = 400
+[ERROR][14:11:52] [Tracker][ogar-tracker.tk]: statusCode = 403
+[ERROR][14:11:52] [Tracker][c0nsume.me]: statusCode = 400
+[NONE ][14:11:56] CONNECTED    127.0.0.1:58547, origin: "undefined"
+[ERROR][14:12:03] [Tracker][c0nsume.me]: statusCode = 400
+[ERROR][14:12:03] [Tracker][ogar-tracker.tk]: statusCode = 403
+[ERROR][14:12:03] [Tracker][c0nsume.me]: statusCode = 400
+[ERROR][14:12:03] [Tracker][ogar-tracker.tk]: statusCode = 403
+[ERROR][14:12:03] [Tracker][ogar-tracker.tk]: statusCode = 403
+[ERROR][14:12:03] [Tracker][c0nsume.me]: statusCode = 400
+[ERROR][14:12:04] [Tracker][c0nsume.me]: statusCode = 400
+[ERROR][14:12:04] [Tracker][ogar-tracker.tk]: statusCode = 403
+[NONE ][14:13:00] >kickall
+[NONE ][14:13:00] Kicked "DeezNuts"
+[NONE ][14:13:00] DISCONNECTED 127.0.0.1:58547, code: 1000, reason: "Kicked from server", name: "DeezNuts"
+[NONE ][14:13:00] Kicked "DeezNutsBot"
+[NONE ][14:13:00] Kicked "DeezNutsBot"
+[NONE ][14:13:00] Kicked "DeezNutsBot"
+[NONE ][14:13:00] Kicked "DeezNutsBot"
+[NONE ][14:13:00] Kicked "DeezNutsBot"
+[NONE ][14:13:00] Kicked "DeezNutsBot"
+[NONE ][14:13:00] Kicked "DeezNutsBot"
+[NONE ][14:13:00] Kicked "DeezNutsBot"
+[NONE ][14:13:00] Kicked "DeezNutsBot"
+[NONE ][14:13:00] Kicked "DeezNutsBot"
+[NONE ][14:13:00] Kicked "DeezNutsBot"
+[NONE ][14:13:00] Kicked "DeezNutsBot"
+[NONE ][14:13:00] Kicked "DeezNutsBot"
+[NONE ][14:13:00] Kicked "DeezNutsBot"
+[NONE ][14:13:00] Kicked "DeezNutsBot"
+[NONE ][14:13:00] Kicked "DeezNutsBot"
+[NONE ][14:13:00] Kicked "DeezNutsBot"
+[NONE ][14:13:00] Kicked "DeezNutsBot"
+[NONE ][14:13:00] Kicked "DeezNutsBot"
+[NONE ][14:13:00] Kicked "DeezNutsBot"
+[NONE ][14:13:00] Kicked "DeezNutsBot"
+[NONE ][14:13:00] Kicked "DeezNutsBot"
+[NONE ][14:13:00] Kicked "DeezNutsBot"
+[NONE ][14:13:00] Kicked "DeezNutsBot"
+[NONE ][14:13:00] Kicked "DeezNutsBot"
+[NONE ][14:13:00] Kicked "DeezNutsBot"
+[NONE ][14:13:00] Kicked "DeezNutsBot"
+[NONE ][14:13:00] Kicked "DeezNutsBot"
+[NONE ][14:13:00] Kicked "DeezNutsBot"
+[NONE ][14:13:00] Kicked "DeezNutsBot"
+[NONE ][14:13:00] Kicked "DeezNutsBot"
+[NONE ][14:13:00] Kicked "DeezNutsBot"
+[NONE ][14:13:00] Kicked "DeezNutsBot"
+[NONE ][14:13:00] Kicked "DeezNutsBot"
+[NONE ][14:13:00] Kicked "DeezNutsBot"
+[NONE ][14:13:00] Kicked "DeezNutsBot"
+[NONE ][14:13:00] Kicked "DeezNutsBot"
+[NONE ][14:13:00] Kicked "DeezNutsBot"
+[NONE ][14:13:00] Kicked "DeezNutsBot"
+[NONE ][14:13:00] Kicked "DeezNutsBot"
+[NONE ][14:13:00] Kicked "DeezNutsBot"
+[NONE ][14:13:00] Kicked "DeezNutsBot"
+[NONE ][14:13:00] Kicked "DeezNutsBot"
+[NONE ][14:13:00] Kicked "DeezNutsBot"
+[NONE ][14:13:00] Kicked "DeezNutsBot"
+[NONE ][14:13:00] Kicked "DeezNutsBot"
+[NONE ][14:13:00] Kicked "DeezNutsBot"
+[NONE ][14:13:00] Kicked "DeezNutsBot"
+[NONE ][14:13:00] Kicked "DeezNutsBot"
+[NONE ][14:13:00] Kicked "DeezNutsBot"
+[NONE ][14:13:00] Kicked "DeezNutsBot"
+[NONE ][14:13:00] Kicked "DeezNutsBot"
+[NONE ][14:13:00] Kicked "DeezNutsBot"
+[NONE ][14:13:00] Kicked "DeezNutsBot"
+[NONE ][14:13:00] Kicked "DeezNutsBot"
+[NONE ][14:13:00] Kicked "DeezNutsBot"
+[NONE ][14:13:00] Kicked "DeezNutsBot"
+[NONE ][14:13:00] Kicked "DeezNutsBot"
+[NONE ][14:13:00] Kicked "DeezNutsBot"
+[NONE ][14:13:00] Kicked "DeezNutsBot"
+[NONE ][14:13:00] Kicked "DeezNutsBot"
+[NONE ][14:13:00] Kicked "DeezNutsBot"
+[NONE ][14:13:00] Kicked "DeezNutsBot"
+[NONE ][14:13:00] Kicked "DeezNutsBot"
+[NONE ][14:13:00] Kicked "DeezNutsBot"
+[NONE ][14:13:00] Kicked "DeezNutsBot"
+[NONE ][14:13:00] Kicked "DeezNutsBot"
+[NONE ][14:13:00] Kicked "DeezNutsBot"
+[NONE ][14:13:00] Kicked "DeezNutsBot"
+[NONE ][14:13:00] Kicked "DeezNutsBot"
+[NONE ][14:13:00] Kicked "DeezNutsBot"
+[NONE ][14:13:00] Kicked "DeezNutsBot"
+[NONE ][14:13:00] Kicked "DeezNutsBot"
+[NONE ][14:13:00] Kicked "DeezNutsBot"
+[NONE ][14:13:00] Kicked "DeezNutsBot"
+[NONE ][14:13:00] Kicked "DeezNutsBot"
+[NONE ][14:13:00] Kicked "DeezNutsBot"
+[NONE ][14:13:00] Kicked "DeezNutsBot"
+[NONE ][14:13:00] Kicked "DeezNutsBot"
+[NONE ][14:13:00] Kicked "DeezNutsBot"
+[NONE ][14:13:00] Kicked "DeezNutsBot"
+[NONE ][14:13:00] Kicked "DeezNutsBot"
+[NONE ][14:13:00] Kicked "DeezNutsBot"
+[NONE ][14:13:00] Kicked "DeezNutsBot"
+[NONE ][14:13:00] Kicked "DeezNutsBot"
+[NONE ][14:13:00] Kicked "DeezNutsBot"
+[NONE ][14:13:00] Kicked "DeezNutsBot"
+[NONE ][14:13:00] Kicked "DeezNutsBot"
+[NONE ][14:13:00] Kicked "DeezNutsBot"
+[NONE ][14:13:00] Kicked "DeezNutsBot"
+[NONE ][14:13:00] Kicked "DeezNutsBot"
+[NONE ][14:13:00] Kicked "DeezNutsBot"
+[NONE ][14:13:00] Kicked "DeezNutsBot"
+[NONE ][14:13:00] Kicked "DeezNutsBot"
+[NONE ][14:13:00] Kicked "DeezNutsBot"
+[NONE ][14:13:00] Kicked "DeezNutsBot"
+[NONE ][14:13:00] Kicked "DeezNutsBot"
+[NONE ][14:13:00] Kicked "DeezNutsBot"
+[NONE ][14:13:00] Kicked "DeezNutsBot"
+[NONE ][14:13:00] Kicked "DeezNutsBot"
+[ERROR][14:13:00] [Tracker][c0nsume.me]: statusCode = 400
+[ERROR][14:13:00] [Tracker][ogar-tracker.tk]: statusCode = 403
+[ERROR][14:13:00] [Tracker][ogar-tracker.tk]: statusCode = 403
+[ERROR][14:13:00] [Tracker][ogar-tracker.tk]: statusCode = 403
+[ERROR][14:13:00] [Tracker][c0nsume.me]: statusCode = 400
+[ERROR][14:13:00] [Tracker][ogar-tracker.tk]: statusCode = 403
+[ERROR][14:13:00] [Tracker][c0nsume.me]: statusCode = 400
+[ERROR][14:13:00] [Tracker][c0nsume.me]: statusCode = 400
+[ERROR][14:13:01] [Tracker][ogar-tracker.tk]: statusCode = 403
+[ERROR][14:13:01] [Tracker][ogar-tracker.tk]: statusCode = 403
+[ERROR][14:13:01] [Tracker][c0nsume.me]: statusCode = 400
+[ERROR][14:13:01] [Tracker][ogar-tracker.tk]: statusCode = 403
+[ERROR][14:13:01] [Tracker][ogar-tracker.tk]: statusCode = 403
+[ERROR][14:13:01] [Tracker][c0nsume.me]: statusCode = 400
+[ERROR][14:13:01] [Tracker][c0nsume.me]: statusCode = 400
+[ERROR][14:13:01] [Tracker][c0nsume.me]: statusCode = 400
+[ERROR][14:13:01] [Tracker][ogar-tracker.tk]: statusCode = 403
+[ERROR][14:13:01] [Tracker][ogar-tracker.tk]: statusCode = 403
+[ERROR][14:13:01] [Tracker][c0nsume.me]: statusCode = 400
+[ERROR][14:13:01] [Tracker][c0nsume.me]: statusCode = 400
+[ERROR][14:13:01] [Tracker][c0nsume.me]: statusCode = 400
+[ERROR][14:13:01] [Tracker][ogar-tracker.tk]: statusCode = 403
+[ERROR][14:13:01] [Tracker][c0nsume.me]: statusCode = 400
+[ERROR][14:13:02] [Tracker][ogar-tracker.tk]: statusCode = 403
+[ERROR][14:13:02] [Tracker][c0nsume.me]: statusCode = 400
+[ERROR][14:13:02] [Tracker][c0nsume.me]: statusCode = 400
+[ERROR][14:13:02] [Tracker][ogar-tracker.tk]: statusCode = 403
+[ERROR][14:13:02] [Tracker][c0nsume.me]: statusCode = 400
+[ERROR][14:13:02] [Tracker][ogar-tracker.tk]: statusCode = 403
+[ERROR][14:13:02] [Tracker][ogar-tracker.tk]: statusCode = 403
+[ERROR][14:13:02] [Tracker][c0nsume.me]: statusCode = 400
+[ERROR][14:13:02] [Tracker][ogar-tracker.tk]: statusCode = 403
+[ERROR][14:13:02] [Tracker][c0nsume.me]: statusCode = 400
+[ERROR][14:13:02] [Tracker][ogar-tracker.tk]: statusCode = 403
+[ERROR][14:13:02] [Tracker][c0nsume.me]: statusCode = 400
+[ERROR][14:13:02] [Tracker][ogar-tracker.tk]: statusCode = 403
+[ERROR][14:13:02] [Tracker][c0nsume.me]: statusCode = 400
+[ERROR][14:13:02] [Tracker][c0nsume.me]: statusCode = 400
+[NONE ][14:13:05] CONNECTED    127.0.0.1:40189, origin: "undefined"
+[NONE ][14:13:11] >exit
+[WARN ][14:13:11] Closing server...
+[DEBUG][14:13:11] process.exit(1)
+=== Shutdown 2017-09-10T14-13-11-629 ===

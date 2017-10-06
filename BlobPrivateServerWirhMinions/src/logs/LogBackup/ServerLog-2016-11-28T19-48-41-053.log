@@ -1,0 +1,26 @@
+=== Started 2016-11-28T19-47-43-491 ===
+[INFO ][19:47:43] 0 IP ban records loaded.
+[WARN ][19:47:43] User account "Local Administrator" disabled
+[WARN ][19:47:43] User account "Local Moderator" disabled
+[WARN ][19:47:43] User account "Local User" disabled
+[INFO ][19:47:43] 0 user records loaded.
+[INFO ][19:47:43] 25 bad words loaded
+[INFO ][19:47:43] [1m[32mMultiOgar-Edited 1.3.7[37m - An open source multi-protocol ogar server[0m
+[INFO ][19:47:43] WebSocket: ws
+[INFO ][19:47:43] Started stats server on port 88
+[INFO ][19:47:43] Listening on port 777
+[INFO ][19:47:43] Current game mode is Free For All
+[NONE ][19:47:45] CONNECTED    127.0.0.1:49175, origin: "http://agar.io"
+[NONE ][19:47:48] DISCONNECTED 127.0.0.1:49175, code: 1000, reason: "", name: "BLACKHOLE"
+[NONE ][19:47:49] CONNECTED    127.0.0.1:49186, origin: "http://agar.io"
+[NONE ][19:48:06] >playerlist
+[NONE ][19:48:06] Current players: 17
+[NONE ][19:48:06] Do "playerlist m" or "pl m" to list minions
+[NONE ][19:48:06]  ID     | IP              | P | NICK            | CELLS | SCORE  | POSITION    
+[NONE ][19:48:06] -------------------------------------------------------------------------------
+[NONE ][19:48:06]       1 | 127.0.0.1       | 9 | [DISCONNECTED] [1000] 
+[NONE ][19:48:06]      17 | 127.0.0.1       | 9 | BLACKHOLE       |     1 |    321 |  4360,    83
+[NONE ][19:48:09] >minion 17 1000
+[NONE ][19:48:09] Added 1000 minions for BLACKHOLE
+[NONE ][19:48:27] >minion 17 1000 BLACKHOLE
+[NONE ][19:48:27] Added 1000 minions for BLACKHOLE

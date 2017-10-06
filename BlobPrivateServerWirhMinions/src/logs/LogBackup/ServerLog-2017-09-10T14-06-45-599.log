@@ -1,0 +1,751 @@
+=== Started 2017-09-10T12-31-38-640 ===
+[INFO ][12:31:38] [1m[32mMultiOgar 1.3.7[37m - An open source multi-protocol ogar server[0m
+[ERROR][12:31:38] Unknown gameserver.ini value: serverVersionCode
+[ERROR][12:31:38] Unknown gameserver.ini value: separateChatForTeams
+[ERROR][12:31:38] Unknown gameserver.ini value: ejectDistance
+[ERROR][12:31:38] Unknown gameserver.ini value: tourneyMaxPlayers
+[ERROR][12:31:38] Unknown gameserver.ini value: tourneyPrepTime
+[ERROR][12:31:38] Unknown gameserver.ini value: tourneyEndTime
+[ERROR][12:31:38] Unknown gameserver.ini value: tourneyTimeLimit
+[ERROR][12:31:38] Unknown gameserver.ini value: tourneyAutoFill
+[ERROR][12:31:38] Unknown gameserver.ini value: tourneyAutoFillPlayers
+[INFO ][12:31:38] 0 IP ban records loaded.
+[WARN ][12:31:38] User account "Local Administrator" disabled
+[WARN ][12:31:38] User account "Local Moderator" disabled
+[WARN ][12:31:38] User account "Local User" disabled
+[INFO ][12:31:38] 0 user records loaded.
+[INFO ][12:31:38] 25 bad words loaded
+[INFO ][12:31:38] WebSocket: ws
+[INFO ][12:31:39] Started stats server on port 9999
+[INFO ][12:31:39] Listening on port 1111
+[INFO ][12:31:39] Current game mode is Free For All
+[ERROR][12:31:39] [Tracker][c0nsume.me]: statusCode = 400
+[ERROR][12:31:39] [Tracker][c0nsume.me]: statusCode = 400
+[ERROR][12:31:39] [Tracker][ogar-tracker.tk]: statusCode = 403
+[ERROR][12:31:39] [Tracker][c0nsume.me]: statusCode = 400
+[ERROR][12:31:39] [Tracker][ogar-tracker.tk]: statusCode = 403
+[ERROR][12:31:39] [Tracker][c0nsume.me]: statusCode = 400
+[NONE ][12:31:45] CONNECTED    127.0.0.1:60696, origin: "undefined"
+[ERROR][12:31:50] [Tracker][ogar-tracker.tk]: statusCode = 403
+[ERROR][12:31:50] [Tracker][ogar-tracker.tk]: statusCode = 403
+[ERROR][12:31:50] [Tracker][ogar-tracker.tk]: statusCode = 403
+[ERROR][12:31:50] [Tracker][ogar-tracker.tk]: statusCode = 403
+[ERROR][12:31:50] [Tracker][c0nsume.me]: statusCode = 400
+[ERROR][12:31:51] [Tracker][c0nsume.me]: statusCode = 400
+[ERROR][12:31:51] [Tracker][c0nsume.me]: statusCode = 400
+[ERROR][12:31:51] [Tracker][c0nsume.me]: statusCode = 400
+[ERROR][12:32:02] [Tracker][ogar-tracker.tk]: statusCode = 403
+[ERROR][12:32:02] [Tracker][c0nsume.me]: statusCode = 400
+[ERROR][12:32:02] [Tracker][c0nsume.me]: statusCode = 400
+[ERROR][12:32:02] [Tracker][ogar-tracker.tk]: statusCode = 403
+[ERROR][12:32:02] [Tracker][ogar-tracker.tk]: statusCode = 403
+[ERROR][12:32:02] [Tracker][c0nsume.me]: statusCode = 400
+[ERROR][12:32:02] [Tracker][c0nsume.me]: statusCode = 400
+[ERROR][12:32:02] [Tracker][ogar-tracker.tk]: statusCode = 403
+[ERROR][12:32:10] [Tracker][ogar-tracker.tk]: Error: connect ETIMEDOUT 195.20.46.84:80
+[ERROR][12:32:10] [Tracker][ogar-tracker.tk]: Error: connect ETIMEDOUT 195.20.46.84:80
+[ERROR][12:32:13] [Tracker][ogar-tracker.tk]: statusCode = 403
+[ERROR][12:32:13] [Tracker][c0nsume.me]: statusCode = 400
+[ERROR][12:32:13] [Tracker][ogar-tracker.tk]: statusCode = 403
+[ERROR][12:32:13] [Tracker][c0nsume.me]: statusCode = 400
+[ERROR][12:32:13] [Tracker][ogar-tracker.tk]: statusCode = 403
+[ERROR][12:32:13] [Tracker][c0nsume.me]: statusCode = 400
+[ERROR][12:32:14] [Tracker][ogar-tracker.tk]: statusCode = 403
+[ERROR][12:32:14] [Tracker][c0nsume.me]: statusCode = 400
+[ERROR][12:32:25] [Tracker][c0nsume.me]: statusCode = 400
+[ERROR][12:32:25] [Tracker][ogar-tracker.tk]: statusCode = 403
+[ERROR][12:32:25] [Tracker][ogar-tracker.tk]: statusCode = 403
+[ERROR][12:32:25] [Tracker][c0nsume.me]: statusCode = 400
+[ERROR][12:32:25] [Tracker][ogar-tracker.tk]: statusCode = 403
+[ERROR][12:32:25] [Tracker][c0nsume.me]: statusCode = 400
+[ERROR][12:32:25] [Tracker][c0nsume.me]: statusCode = 400
+[ERROR][12:32:25] [Tracker][ogar-tracker.tk]: statusCode = 403
+[ERROR][12:32:36] [Tracker][c0nsume.me]: statusCode = 400
+[ERROR][12:32:37] [Tracker][ogar-tracker.tk]: statusCode = 403
+[ERROR][12:32:37] [Tracker][c0nsume.me]: statusCode = 400
+[ERROR][12:32:37] [Tracker][ogar-tracker.tk]: statusCode = 403
+[ERROR][12:32:37] [Tracker][c0nsume.me]: statusCode = 400
+[ERROR][12:32:38] [Tracker][c0nsume.me]: statusCode = 400
+[ERROR][12:32:48] [Tracker][ogar-tracker.tk]: statusCode = 403
+[ERROR][12:32:48] [Tracker][c0nsume.me]: statusCode = 400
+[ERROR][12:32:48] [Tracker][c0nsume.me]: statusCode = 400
+[ERROR][12:32:48] [Tracker][ogar-tracker.tk]: statusCode = 403
+[ERROR][12:32:48] [Tracker][c0nsume.me]: statusCode = 400
+[ERROR][12:32:48] [Tracker][c0nsume.me]: statusCode = 400
+[ERROR][12:32:48] [Tracker][ogar-tracker.tk]: statusCode = 403
+[ERROR][12:32:51] [Tracker][ogar-tracker.tk]: statusCode = 403
+[ERROR][12:32:59] [Tracker][ogar-tracker.tk]: statusCode = 403
+[ERROR][12:32:59] [Tracker][ogar-tracker.tk]: statusCode = 403
+[ERROR][12:33:00] [Tracker][c0nsume.me]: statusCode = 400
+[ERROR][12:33:00] [Tracker][ogar-tracker.tk]: statusCode = 403
+[ERROR][12:33:00] [Tracker][c0nsume.me]: statusCode = 400
+[ERROR][12:33:00] [Tracker][ogar-tracker.tk]: statusCode = 403
+[ERROR][12:33:00] [Tracker][c0nsume.me]: statusCode = 400
+[ERROR][12:33:00] [Tracker][c0nsume.me]: statusCode = 400
+[ERROR][12:33:03] [Tracker][ogar-tracker.tk]: statusCode = 403
+[NONE ][12:33:06] >spawnmass 2 500
+[NONE ][12:33:06] Set spawnmass of MineMoore to 500.000
+[ERROR][12:33:07] [Tracker][ogar-tracker.tk]: Error: connect ETIMEDOUT 195.20.46.84:80
+[ERROR][12:33:11] [Tracker][c0nsume.me]: statusCode = 400
+[ERROR][12:33:11] [Tracker][ogar-tracker.tk]: statusCode = 403
+[ERROR][12:33:11] [Tracker][c0nsume.me]: statusCode = 400
+[ERROR][12:33:11] [Tracker][c0nsume.me]: statusCode = 400
+[ERROR][12:33:11] [Tracker][c0nsume.me]: statusCode = 400
+[ERROR][12:33:22] [Tracker][c0nsume.me]: statusCode = 400
+[ERROR][12:33:22] [Tracker][ogar-tracker.tk]: statusCode = 403
+[ERROR][12:33:22] [Tracker][ogar-tracker.tk]: statusCode = 403
+[ERROR][12:33:22] [Tracker][c0nsume.me]: statusCode = 400
+[ERROR][12:33:23] [Tracker][ogar-tracker.tk]: statusCode = 403
+[ERROR][12:33:23] [Tracker][c0nsume.me]: statusCode = 400
+[ERROR][12:33:23] [Tracker][ogar-tracker.tk]: statusCode = 403
+[ERROR][12:33:26] [Tracker][ogar-tracker.tk]: statusCode = 403
+[ERROR][12:33:34] [Tracker][c0nsume.me]: statusCode = 400
+[ERROR][12:33:34] [Tracker][c0nsume.me]: statusCode = 400
+[ERROR][12:33:34] [Tracker][ogar-tracker.tk]: statusCode = 403
+[ERROR][12:33:34] [Tracker][ogar-tracker.tk]: statusCode = 403
+[ERROR][12:33:34] [Tracker][c0nsume.me]: statusCode = 400
+[ERROR][12:33:34] [Tracker][c0nsume.me]: statusCode = 400
+[ERROR][12:33:38] [Tracker][c0nsume.me]: statusCode = 400
+[ERROR][12:33:42] [Tracker][ogar-tracker.tk]: Error: connect ETIMEDOUT 195.20.46.84:80
+[ERROR][12:33:42] [Tracker][ogar-tracker.tk]: Error: connect ETIMEDOUT 195.20.46.84:80
+[ERROR][12:33:46] [Tracker][c0nsume.me]: statusCode = 400
+[ERROR][12:33:46] [Tracker][ogar-tracker.tk]: statusCode = 403
+[ERROR][12:33:46] [Tracker][c0nsume.me]: statusCode = 400
+[ERROR][12:33:46] [Tracker][ogar-tracker.tk]: statusCode = 403
+[ERROR][12:33:46] [Tracker][ogar-tracker.tk]: statusCode = 403
+[ERROR][12:33:46] [Tracker][c0nsume.me]: statusCode = 400
+[ERROR][12:33:46] [Tracker][ogar-tracker.tk]: statusCode = 403
+[ERROR][12:33:46] [Tracker][c0nsume.me]: statusCode = 400
+[ERROR][12:33:57] [Tracker][c0nsume.me]: statusCode = 400
+[ERROR][12:33:57] [Tracker][ogar-tracker.tk]: statusCode = 403
+[ERROR][12:33:57] [Tracker][ogar-tracker.tk]: statusCode = 403
+[ERROR][12:33:57] [Tracker][c0nsume.me]: statusCode = 400
+[ERROR][12:33:57] [Tracker][ogar-tracker.tk]: statusCode = 403
+[ERROR][12:33:57] [Tracker][c0nsume.me]: statusCode = 400
+[ERROR][12:33:57] [Tracker][c0nsume.me]: statusCode = 400
+[ERROR][12:33:57] [Tracker][ogar-tracker.tk]: statusCode = 403
+[ERROR][12:34:05] [Tracker][ogar-tracker.tk]: Error: connect ETIMEDOUT 195.20.46.84:80
+[ERROR][12:34:05] [Tracker][ogar-tracker.tk]: Error: connect ETIMEDOUT 195.20.46.84:80
+[ERROR][12:34:09] [Tracker][c0nsume.me]: statusCode = 400
+[ERROR][12:34:09] [Tracker][c0nsume.me]: statusCode = 400
+[ERROR][12:34:09] [Tracker][ogar-tracker.tk]: statusCode = 403
+[ERROR][12:34:09] [Tracker][c0nsume.me]: statusCode = 400
+[ERROR][12:34:09] [Tracker][ogar-tracker.tk]: statusCode = 403
+[ERROR][12:34:09] [Tracker][c0nsume.me]: statusCode = 400
+[ERROR][12:34:20] [Tracker][c0nsume.me]: statusCode = 400
+[ERROR][12:34:20] [Tracker][ogar-tracker.tk]: statusCode = 403
+[ERROR][12:34:20] [Tracker][ogar-tracker.tk]: statusCode = 403
+[ERROR][12:34:20] [Tracker][c0nsume.me]: statusCode = 400
+[ERROR][12:34:20] [Tracker][c0nsume.me]: statusCode = 400
+[ERROR][12:34:20] [Tracker][ogar-tracker.tk]: statusCode = 403
+[ERROR][12:34:20] [Tracker][c0nsume.me]: statusCode = 400
+[ERROR][12:34:20] [Tracker][ogar-tracker.tk]: statusCode = 403
+[ERROR][12:34:24] [Tracker][ogar-tracker.tk]: statusCode = 403
+[ERROR][12:34:32] [Tracker][ogar-tracker.tk]: statusCode = 403
+[ERROR][12:34:32] [Tracker][c0nsume.me]: statusCode = 400
+[ERROR][12:34:32] [Tracker][c0nsume.me]: statusCode = 400
+[ERROR][12:34:32] [Tracker][ogar-tracker.tk]: statusCode = 403
+[ERROR][12:34:32] [Tracker][c0nsume.me]: statusCode = 400
+[ERROR][12:34:32] [Tracker][ogar-tracker.tk]: statusCode = 403
+[ERROR][12:34:32] [Tracker][ogar-tracker.tk]: statusCode = 403
+[ERROR][12:34:32] [Tracker][c0nsume.me]: statusCode = 400
+[ERROR][12:34:40] [Tracker][ogar-tracker.tk]: Error: connect ETIMEDOUT 195.20.46.84:80
+[ERROR][12:34:43] [Tracker][ogar-tracker.tk]: statusCode = 403
+[ERROR][12:34:43] [Tracker][c0nsume.me]: statusCode = 400
+[ERROR][12:34:43] [Tracker][ogar-tracker.tk]: statusCode = 403
+[ERROR][12:34:43] [Tracker][c0nsume.me]: statusCode = 400
+[ERROR][12:34:43] [Tracker][c0nsume.me]: statusCode = 400
+[ERROR][12:34:43] [Tracker][ogar-tracker.tk]: statusCode = 403
+[ERROR][12:34:43] [Tracker][c0nsume.me]: statusCode = 400
+[ERROR][12:34:55] [Tracker][c0nsume.me]: statusCode = 400
+[ERROR][12:34:55] [Tracker][ogar-tracker.tk]: statusCode = 403
+[ERROR][12:34:55] [Tracker][ogar-tracker.tk]: statusCode = 403
+[ERROR][12:34:55] [Tracker][c0nsume.me]: statusCode = 400
+[ERROR][12:34:55] [Tracker][c0nsume.me]: statusCode = 400
+[ERROR][12:34:55] [Tracker][ogar-tracker.tk]: statusCode = 403
+[ERROR][12:34:55] [Tracker][c0nsume.me]: statusCode = 400
+[ERROR][12:35:06] [Tracker][c0nsume.me]: statusCode = 400
+[ERROR][12:35:06] [Tracker][ogar-tracker.tk]: statusCode = 403
+[ERROR][12:35:06] [Tracker][ogar-tracker.tk]: statusCode = 403
+[ERROR][12:35:06] [Tracker][ogar-tracker.tk]: statusCode = 403
+[ERROR][12:35:06] [Tracker][c0nsume.me]: statusCode = 400
+[ERROR][12:35:06] [Tracker][ogar-tracker.tk]: statusCode = 403
+[ERROR][12:35:07] [Tracker][c0nsume.me]: statusCode = 400
+[ERROR][12:35:07] [Tracker][c0nsume.me]: statusCode = 400
+[ERROR][12:35:14] [Tracker][ogar-tracker.tk]: Error: connect ETIMEDOUT 195.20.46.84:80
+[ERROR][12:35:18] [Tracker][c0nsume.me]: statusCode = 400
+[ERROR][12:35:18] [Tracker][ogar-tracker.tk]: statusCode = 403
+[ERROR][12:35:18] [Tracker][c0nsume.me]: statusCode = 400
+[ERROR][12:35:18] [Tracker][c0nsume.me]: statusCode = 400
+[ERROR][12:35:18] [Tracker][ogar-tracker.tk]: statusCode = 403
+[ERROR][12:35:18] [Tracker][ogar-tracker.tk]: statusCode = 403
+[ERROR][12:35:18] [Tracker][c0nsume.me]: statusCode = 400
+[ERROR][12:35:26] [Tracker][ogar-tracker.tk]: Error: connect ETIMEDOUT 195.20.46.84:80
+[ERROR][12:35:29] [Tracker][c0nsume.me]: statusCode = 400
+[ERROR][12:35:29] [Tracker][ogar-tracker.tk]: statusCode = 403
+[ERROR][12:35:29] [Tracker][c0nsume.me]: statusCode = 400
+[ERROR][12:35:29] [Tracker][ogar-tracker.tk]: statusCode = 403
+[ERROR][12:35:29] [Tracker][ogar-tracker.tk]: statusCode = 403
+[ERROR][12:35:29] [Tracker][c0nsume.me]: statusCode = 400
+[ERROR][12:35:29] [Tracker][c0nsume.me]: statusCode = 400
+[ERROR][12:35:29] [Tracker][ogar-tracker.tk]: statusCode = 403
+[ERROR][12:35:41] [Tracker][c0nsume.me]: statusCode = 400
+[ERROR][12:35:41] [Tracker][ogar-tracker.tk]: statusCode = 403
+[ERROR][12:35:41] [Tracker][c0nsume.me]: statusCode = 400
+[ERROR][12:35:41] [Tracker][c0nsume.me]: statusCode = 400
+[ERROR][12:35:41] [Tracker][ogar-tracker.tk]: statusCode = 403
+[ERROR][12:35:41] [Tracker][c0nsume.me]: statusCode = 400
+[ERROR][12:35:49] [Tracker][ogar-tracker.tk]: Error: connect ETIMEDOUT 195.20.46.84:80
+[ERROR][12:35:52] [Tracker][c0nsume.me]: statusCode = 400
+[ERROR][12:35:52] [Tracker][ogar-tracker.tk]: statusCode = 403
+[ERROR][12:35:52] [Tracker][ogar-tracker.tk]: statusCode = 403
+[ERROR][12:35:52] [Tracker][c0nsume.me]: statusCode = 400
+[ERROR][12:35:52] [Tracker][ogar-tracker.tk]: statusCode = 403
+[ERROR][12:35:52] [Tracker][c0nsume.me]: statusCode = 400
+[ERROR][12:35:52] [Tracker][c0nsume.me]: statusCode = 400
+[ERROR][12:35:52] [Tracker][ogar-tracker.tk]: statusCode = 403
+[ERROR][12:35:56] [Tracker][ogar-tracker.tk]: statusCode = 403
+[ERROR][12:36:04] [Tracker][c0nsume.me]: statusCode = 400
+[ERROR][12:36:04] [Tracker][ogar-tracker.tk]: statusCode = 403
+[ERROR][12:36:04] [Tracker][c0nsume.me]: statusCode = 400
+[ERROR][12:36:04] [Tracker][ogar-tracker.tk]: statusCode = 403
+[ERROR][12:36:04] [Tracker][c0nsume.me]: statusCode = 400
+[ERROR][12:36:04] [Tracker][ogar-tracker.tk]: statusCode = 403
+[ERROR][12:36:04] [Tracker][c0nsume.me]: statusCode = 400
+[ERROR][12:36:12] [Tracker][ogar-tracker.tk]: Error: connect ETIMEDOUT 195.20.46.84:80
+[ERROR][12:36:15] [Tracker][c0nsume.me]: statusCode = 400
+[ERROR][12:36:15] [Tracker][ogar-tracker.tk]: statusCode = 403
+[ERROR][12:36:15] [Tracker][ogar-tracker.tk]: statusCode = 403
+[ERROR][12:36:15] [Tracker][c0nsume.me]: statusCode = 400
+[ERROR][12:36:15] [Tracker][ogar-tracker.tk]: statusCode = 403
+[ERROR][12:36:15] [Tracker][c0nsume.me]: statusCode = 400
+[ERROR][12:36:16] [Tracker][c0nsume.me]: statusCode = 400
+[NONE ][12:36:22] >killall
+[NONE ][12:36:22] Removed 85 cells
+[ERROR][12:36:27] [Tracker][c0nsume.me]: statusCode = 400
+[ERROR][12:36:27] [Tracker][ogar-tracker.tk]: statusCode = 403
+[ERROR][12:36:27] [Tracker][ogar-tracker.tk]: statusCode = 403
+[ERROR][12:36:27] [Tracker][c0nsume.me]: statusCode = 400
+[ERROR][12:36:27] [Tracker][ogar-tracker.tk]: statusCode = 403
+[ERROR][12:36:27] [Tracker][c0nsume.me]: statusCode = 400
+[ERROR][12:36:27] [Tracker][c0nsume.me]: statusCode = 400
+[NONE ][12:36:28] >kickall
+[NONE ][12:36:28] Kicked "DeezNuts"
+[NONE ][12:36:28] DISCONNECTED 127.0.0.1:60696, code: 1000, reason: "Kicked from server", name: "DeezNuts"
+[NONE ][12:36:28] Kicked "MineMoore"
+[NONE ][12:36:28] Kicked "MineMoore"
+[NONE ][12:36:28] Kicked "MineMoore"
+[NONE ][12:36:28] Kicked "MineMoore"
+[NONE ][12:36:28] Kicked "MineMoore"
+[NONE ][12:36:28] Kicked "MineMoore"
+[NONE ][12:36:28] Kicked "MineMoore"
+[NONE ][12:36:28] Kicked "MineMoore"
+[NONE ][12:36:28] Kicked "MineMoore"
+[NONE ][12:36:28] Kicked "MineMoore"
+[NONE ][12:36:28] Kicked "MineMoore"
+[NONE ][12:36:28] Kicked "MineMoore"
+[NONE ][12:36:28] Kicked "MineMoore"
+[NONE ][12:36:28] Kicked "MineMoore"
+[NONE ][12:36:28] Kicked "MineMoore"
+[NONE ][12:36:28] Kicked "MineMoore"
+[NONE ][12:36:28] Kicked "MineMoore"
+[NONE ][12:36:28] Kicked "MineMoore"
+[NONE ][12:36:28] Kicked "MineMoore"
+[NONE ][12:36:28] Kicked "MineMoore"
+[NONE ][12:36:28] Kicked "MineMoore"
+[NONE ][12:36:28] Kicked "MineMoore"
+[NONE ][12:36:28] Kicked "MineMoore"
+[NONE ][12:36:28] Kicked "MineMoore"
+[NONE ][12:36:28] Kicked "MineMoore"
+[NONE ][12:36:28] Kicked "MineMoore"
+[NONE ][12:36:28] Kicked "MineMoore"
+[NONE ][12:36:28] Kicked "MineMoore"
+[NONE ][12:36:28] Kicked "MineMoore"
+[NONE ][12:36:28] Kicked "MineMoore"
+[NONE ][12:36:28] Kicked "MineMoore"
+[NONE ][12:36:28] Kicked "MineMoore"
+[NONE ][12:36:28] Kicked "MineMoore"
+[NONE ][12:36:28] Kicked "MineMoore"
+[NONE ][12:36:28] Kicked "MineMoore"
+[NONE ][12:36:28] Kicked "MineMoore"
+[NONE ][12:36:28] Kicked "MineMoore"
+[NONE ][12:36:28] Kicked "MineMoore"
+[NONE ][12:36:28] Kicked "MineMoore"
+[NONE ][12:36:28] Kicked "MineMoore"
+[NONE ][12:36:28] Kicked "MineMoore"
+[NONE ][12:36:28] Kicked "MineMoore"
+[NONE ][12:36:28] Kicked "MineMoore"
+[NONE ][12:36:28] Kicked "MineMoore"
+[NONE ][12:36:28] Kicked "MineMoore"
+[NONE ][12:36:28] Kicked "MineMoore"
+[NONE ][12:36:28] Kicked "MineMoore"
+[NONE ][12:36:28] Kicked "MineMoore"
+[NONE ][12:36:28] Kicked "MineMoore"
+[NONE ][12:36:28] Kicked "MineMoore"
+[NONE ][12:36:28] Kicked "MineMoore"
+[NONE ][12:36:28] Kicked "MineMoore"
+[NONE ][12:36:28] Kicked "MineMoore"
+[NONE ][12:36:28] Kicked "MineMoore"
+[NONE ][12:36:28] Kicked "MineMoore"
+[NONE ][12:36:28] Kicked "MineMoore"
+[NONE ][12:36:28] Kicked "MineMoore"
+[NONE ][12:36:28] Kicked "MineMoore"
+[NONE ][12:36:28] Kicked "MineMoore"
+[NONE ][12:36:28] Kicked "MineMoore"
+[NONE ][12:36:28] Kicked "MineMoore"
+[NONE ][12:36:28] Kicked "MineMoore"
+[NONE ][12:36:28] Kicked "MineMoore"
+[NONE ][12:36:28] Kicked "MineMoore"
+[NONE ][12:36:28] Kicked "MineMoore"
+[NONE ][12:36:28] Kicked "MineMoore"
+[NONE ][12:36:28] Kicked "MineMoore"
+[NONE ][12:36:28] Kicked "MineMoore"
+[NONE ][12:36:28] Kicked "MineMoore"
+[NONE ][12:36:28] Kicked "MineMoore"
+[NONE ][12:36:28] Kicked "MineMoore"
+[ERROR][12:36:35] [Tracker][ogar-tracker.tk]: Error: connect ETIMEDOUT 195.20.46.84:80
+[NONE ][12:36:36] CONNECTED    127.0.0.1:59556, origin: "undefined"
+[ERROR][12:36:38] [Tracker][ogar-tracker.tk]: statusCode = 403
+[ERROR][12:36:38] [Tracker][c0nsume.me]: statusCode = 400
+[ERROR][12:36:38] [Tracker][ogar-tracker.tk]: statusCode = 403
+[ERROR][12:36:38] [Tracker][c0nsume.me]: statusCode = 400
+[ERROR][12:36:38] [Tracker][ogar-tracker.tk]: statusCode = 403
+[ERROR][12:36:38] [Tracker][c0nsume.me]: statusCode = 400
+[ERROR][12:36:38] [Tracker][ogar-tracker.tk]: statusCode = 403
+[ERROR][12:36:39] [Tracker][c0nsume.me]: statusCode = 400
+[ERROR][12:36:42] [Tracker][ogar-tracker.tk]: statusCode = 403
+[ERROR][12:36:46] [Tracker][ogar-tracker.tk]: Error: connect ETIMEDOUT 195.20.46.84:80
+[WARN ][12:36:47] 127.0.0.1ADDED 10 BOTS
+[ERROR][12:36:50] [Tracker][ogar-tracker.tk]: statusCode = 403
+[ERROR][12:36:50] [Tracker][c0nsume.me]: statusCode = 400
+[ERROR][12:36:50] [Tracker][c0nsume.me]: statusCode = 400
+[ERROR][12:36:50] [Tracker][ogar-tracker.tk]: statusCode = 403
+[ERROR][12:36:50] [Tracker][ogar-tracker.tk]: statusCode = 403
+[ERROR][12:36:50] [Tracker][c0nsume.me]: statusCode = 400
+[ERROR][12:36:50] [Tracker][ogar-tracker.tk]: statusCode = 403
+[ERROR][12:36:50] [Tracker][c0nsume.me]: statusCode = 400
+[ERROR][12:37:01] [Tracker][c0nsume.me]: statusCode = 400
+[ERROR][12:37:01] [Tracker][ogar-tracker.tk]: statusCode = 403
+[ERROR][12:37:01] [Tracker][ogar-tracker.tk]: statusCode = 403
+[ERROR][12:37:02] [Tracker][c0nsume.me]: statusCode = 400
+[ERROR][12:37:02] [Tracker][ogar-tracker.tk]: statusCode = 403
+[ERROR][12:37:02] [Tracker][c0nsume.me]: statusCode = 400
+[ERROR][12:37:02] [Tracker][c0nsume.me]: statusCode = 400
+[ERROR][12:37:09] [Tracker][ogar-tracker.tk]: statusCode = 403
+[ERROR][12:37:13] [Tracker][ogar-tracker.tk]: statusCode = 403
+[ERROR][12:37:13] [Tracker][ogar-tracker.tk]: statusCode = 403
+[ERROR][12:37:13] [Tracker][c0nsume.me]: statusCode = 400
+[ERROR][12:37:13] [Tracker][c0nsume.me]: statusCode = 400
+[ERROR][12:37:13] [Tracker][ogar-tracker.tk]: statusCode = 403
+[ERROR][12:37:13] [Tracker][c0nsume.me]: statusCode = 400
+[ERROR][12:37:13] [Tracker][ogar-tracker.tk]: statusCode = 403
+[ERROR][12:37:13] [Tracker][c0nsume.me]: statusCode = 400
+[ERROR][12:37:24] [Tracker][c0nsume.me]: statusCode = 400
+[NONE ][12:37:24] >minion 2 70
+[ERROR][12:37:24] [Tracker][ogar-tracker.tk]: statusCode = 403
+[ERROR][12:37:24] [Tracker][c0nsume.me]: statusCode = 400
+[ERROR][12:37:25] [Tracker][ogar-tracker.tk]: statusCode = 403
+[ERROR][12:37:25] [Tracker][c0nsume.me]: statusCode = 400
+[ERROR][12:37:26] [Tracker][c0nsume.me]: statusCode = 400
+[ERROR][12:37:36] [Tracker][c0nsume.me]: statusCode = 400
+[ERROR][12:37:36] [Tracker][ogar-tracker.tk]: statusCode = 403
+[ERROR][12:37:36] [Tracker][ogar-tracker.tk]: statusCode = 403
+[ERROR][12:37:36] [Tracker][c0nsume.me]: statusCode = 400
+[ERROR][12:37:36] [Tracker][ogar-tracker.tk]: statusCode = 403
+[ERROR][12:37:36] [Tracker][c0nsume.me]: statusCode = 400
+[ERROR][12:37:36] [Tracker][ogar-tracker.tk]: statusCode = 403
+[NONE ][12:37:36] >minion
+[WARN ][12:37:36] Please specify a valid player id!
+[NONE ][12:37:43] >minion 2 100
+[ERROR][12:37:47] [Tracker][ogar-tracker.tk]: statusCode = 403
+[ERROR][12:37:47] [Tracker][c0nsume.me]: statusCode = 400
+[ERROR][12:37:48] [Tracker][ogar-tracker.tk]: statusCode = 403
+[ERROR][12:37:48] [Tracker][c0nsume.me]: statusCode = 400
+[ERROR][12:37:48] [Tracker][c0nsume.me]: statusCode = 400
+[ERROR][12:37:48] [Tracker][c0nsume.me]: statusCode = 400
+[ERROR][12:37:48] [Tracker][ogar-tracker.tk]: statusCode = 403
+[ERROR][12:37:51] [Tracker][c0nsume.me]: statusCode = 400
+[ERROR][12:37:55] [Tracker][ogar-tracker.tk]: Error: connect ETIMEDOUT 195.20.46.84:80
+[ERROR][12:37:56] [Tracker][ogar-tracker.tk]: Error: connect ETIMEDOUT 195.20.46.84:80
+[ERROR][12:37:59] [Tracker][c0nsume.me]: statusCode = 400
+[ERROR][12:37:59] [Tracker][ogar-tracker.tk]: statusCode = 403
+[ERROR][12:37:59] [Tracker][c0nsume.me]: statusCode = 400
+[ERROR][12:37:59] [Tracker][ogar-tracker.tk]: statusCode = 403
+[ERROR][12:37:59] [Tracker][c0nsume.me]: statusCode = 400
+[ERROR][12:37:59] [Tracker][ogar-tracker.tk]: statusCode = 403
+[ERROR][12:37:59] [Tracker][c0nsume.me]: statusCode = 400
+[ERROR][12:38:11] [Tracker][ogar-tracker.tk]: statusCode = 403
+[ERROR][12:38:11] [Tracker][c0nsume.me]: statusCode = 400
+[ERROR][12:38:11] [Tracker][c0nsume.me]: statusCode = 400
+[ERROR][12:38:11] [Tracker][ogar-tracker.tk]: statusCode = 403
+[ERROR][12:38:11] [Tracker][ogar-tracker.tk]: statusCode = 403
+[ERROR][12:38:11] [Tracker][c0nsume.me]: statusCode = 400
+[ERROR][12:38:11] [Tracker][c0nsume.me]: statusCode = 400
+[ERROR][12:38:14] [Tracker][ogar-tracker.tk]: statusCode = 403
+[ERROR][12:38:19] [Tracker][ogar-tracker.tk]: Error: connect ETIMEDOUT 195.20.46.84:80
+[ERROR][12:38:22] [Tracker][c0nsume.me]: statusCode = 400
+[ERROR][12:38:22] [Tracker][c0nsume.me]: statusCode = 400
+[ERROR][12:38:22] [Tracker][ogar-tracker.tk]: statusCode = 403
+[ERROR][12:38:22] [Tracker][ogar-tracker.tk]: statusCode = 403
+[ERROR][12:38:22] [Tracker][ogar-tracker.tk]: statusCode = 403
+[ERROR][12:38:22] [Tracker][c0nsume.me]: statusCode = 400
+[ERROR][12:38:22] [Tracker][ogar-tracker.tk]: statusCode = 403
+[ERROR][12:38:22] [Tracker][c0nsume.me]: statusCode = 400
+[ERROR][12:38:30] [Tracker][ogar-tracker.tk]: Error: connect ETIMEDOUT 195.20.46.84:80
+[ERROR][12:38:34] [Tracker][c0nsume.me]: statusCode = 400
+[ERROR][12:38:34] [Tracker][ogar-tracker.tk]: statusCode = 403
+[ERROR][12:38:34] [Tracker][ogar-tracker.tk]: statusCode = 403
+[ERROR][12:38:34] [Tracker][c0nsume.me]: statusCode = 400
+[ERROR][12:38:34] [Tracker][ogar-tracker.tk]: statusCode = 403
+[ERROR][12:38:34] [Tracker][c0nsume.me]: statusCode = 400
+[ERROR][12:38:34] [Tracker][ogar-tracker.tk]: statusCode = 403
+[ERROR][12:38:37] [Tracker][c0nsume.me]: statusCode = 400
+[ERROR][12:38:45] [Tracker][c0nsume.me]: statusCode = 400
+[ERROR][12:38:45] [Tracker][ogar-tracker.tk]: statusCode = 403
+[ERROR][12:38:45] [Tracker][c0nsume.me]: statusCode = 400
+[ERROR][12:38:45] [Tracker][ogar-tracker.tk]: statusCode = 403
+[ERROR][12:38:45] [Tracker][ogar-tracker.tk]: statusCode = 403
+[ERROR][12:38:45] [Tracker][c0nsume.me]: statusCode = 400
+[ERROR][12:38:45] [Tracker][ogar-tracker.tk]: statusCode = 403
+[ERROR][12:38:45] [Tracker][c0nsume.me]: statusCode = 400
+[ERROR][12:38:57] [Tracker][ogar-tracker.tk]: statusCode = 403
+[ERROR][12:38:57] [Tracker][c0nsume.me]: statusCode = 400
+[ERROR][12:38:57] [Tracker][c0nsume.me]: statusCode = 400
+[ERROR][12:38:57] [Tracker][ogar-tracker.tk]: statusCode = 403
+[ERROR][12:38:57] [Tracker][ogar-tracker.tk]: statusCode = 403
+[ERROR][12:38:57] [Tracker][c0nsume.me]: statusCode = 400
+[ERROR][12:38:57] [Tracker][ogar-tracker.tk]: statusCode = 403
+[ERROR][12:38:57] [Tracker][c0nsume.me]: statusCode = 400
+[ERROR][12:39:08] [Tracker][ogar-tracker.tk]: statusCode = 403
+[ERROR][12:39:08] [Tracker][c0nsume.me]: statusCode = 400
+[ERROR][12:39:08] [Tracker][c0nsume.me]: statusCode = 400
+[ERROR][12:39:08] [Tracker][ogar-tracker.tk]: statusCode = 403
+[ERROR][12:39:08] [Tracker][c0nsume.me]: statusCode = 403
+[ERROR][12:39:08] [Tracker][c0nsume.me]: statusCode = 400
+[ERROR][12:39:08] [Tracker][ogar-tracker.tk]: statusCode = 403
+[ERROR][12:39:20] [Tracker][c0nsume.me]: statusCode = 400
+[ERROR][12:39:20] [Tracker][ogar-tracker.tk]: statusCode = 403
+[ERROR][12:39:20] [Tracker][ogar-tracker.tk]: statusCode = 403
+[ERROR][12:39:20] [Tracker][c0nsume.me]: statusCode = 400
+[ERROR][12:39:20] [Tracker][c0nsume.me]: statusCode = 400
+[ERROR][12:39:20] [Tracker][ogar-tracker.tk]: statusCode = 403
+[ERROR][12:39:20] [Tracker][ogar-tracker.tk]: statusCode = 403
+[ERROR][12:39:20] [Tracker][c0nsume.me]: statusCode = 400
+[ERROR][12:39:31] [Tracker][c0nsume.me]: statusCode = 400
+[ERROR][12:39:31] [Tracker][ogar-tracker.tk]: statusCode = 403
+[ERROR][12:39:31] [Tracker][ogar-tracker.tk]: statusCode = 403
+[ERROR][12:39:31] [Tracker][c0nsume.me]: statusCode = 400
+[ERROR][12:39:31] [Tracker][ogar-tracker.tk]: statusCode = 403
+[ERROR][12:39:31] [Tracker][c0nsume.me]: statusCode = 400
+[ERROR][12:39:31] [Tracker][ogar-tracker.tk]: statusCode = 403
+[ERROR][12:39:31] [Tracker][c0nsume.me]: statusCode = 400
+[ERROR][12:39:39] [Tracker][ogar-tracker.tk]: Error: connect ETIMEDOUT 195.20.46.84:80
+[ERROR][12:39:43] [Tracker][c0nsume.me]: statusCode = 400
+[ERROR][12:39:43] [Tracker][ogar-tracker.tk]: statusCode = 403
+[ERROR][12:39:43] [Tracker][ogar-tracker.tk]: statusCode = 403
+[ERROR][12:39:43] [Tracker][c0nsume.me]: statusCode = 400
+[ERROR][12:39:43] [Tracker][ogar-tracker.tk]: statusCode = 403
+[ERROR][12:39:43] [Tracker][c0nsume.me]: statusCode = 400
+[ERROR][12:39:43] [Tracker][c0nsume.me]: statusCode = 400
+[ERROR][12:39:54] [Tracker][c0nsume.me]: statusCode = 400
+[ERROR][12:39:54] [Tracker][ogar-tracker.tk]: statusCode = 403
+[ERROR][12:39:54] [Tracker][c0nsume.me]: statusCode = 400
+[ERROR][12:39:54] [Tracker][ogar-tracker.tk]: statusCode = 403
+[ERROR][12:39:54] [Tracker][c0nsume.me]: statusCode = 400
+[ERROR][12:39:54] [Tracker][ogar-tracker.tk]: statusCode = 403
+[ERROR][12:39:54] [Tracker][c0nsume.me]: statusCode = 400
+[NONE ][12:39:56] >playerlist
+[NONE ][12:39:56] Current players: 61
+[NONE ][12:39:56] Do "playerlist m" or "pl m" to list minions
+[NONE ][12:39:56]  ID     | IP              | P | NICK            | CELLS | SCORE  | POSITION    
+[NONE ][12:39:56] -------------------------------------------------------------------------------
+[NONE ][12:39:56]      73 | 127.0.0.1       | 5 | ----------------------------SPECTATING: Đαℵᖙƴ ✧
+[NONE ][12:39:56]      74 | [BOT]           | 0 | An unnamed cell |    11 |   2854 | -5947,  2470
+[NONE ][12:39:56]      75 | [BOT]           | 0 | ƬψƬ ☢ ѕαѕqυαт¢н |     2 |   1845 |  -811, -6275
+[NONE ][12:39:56]      76 | [BOT]           | 0 | ƬψƬ ☢ ℳıℜⱥℭℓℯ   |    12 |   2536 |  3359,   388
+[NONE ][12:39:56]      77 | [BOT]           | 0 | ƵŦ ★ Đuηвαs     |     3 |   1956 |  4519, -5758
+[NONE ][12:39:56]      78 | [BOT]           | 0 | Đαℵᖙƴ ✧         |     1 |  12373 | -1141,   522
+[NONE ][12:39:56]      79 | [BOT]           | 0 | ƬψƬ ✖༺Cгyѕтαl༻  |     5 |   2531 |   194, -2650
+[NONE ][12:39:56]      80 | [BOT]           | 0 | ƬψƬ ☢ ΜΔŞŦ€Ř✓   |     5 |   1698 |  1029, -4093
+[NONE ][12:39:56]      81 | [BOT]           | 0 | YOLO ✌ETZes♱y✧♋ |     1 |    628 |  4843,  6515
+[NONE ][12:39:56]      82 | [BOT]           | 0 | ☃ ƬяᎥɔҠSpℓⓘƬ  ☃ |     1 |    629 |   914,  5344
+[NONE ][12:39:56]      83 | [BOT]           | 0 | Harambeᴳᵒᵈ      |     4 |    771 |  5141,  1971
+[ERROR][12:40:06] [Tracker][c0nsume.me]: statusCode = 400
+[ERROR][12:40:06] [Tracker][ogar-tracker.tk]: statusCode = 403
+[ERROR][12:40:06] [Tracker][ogar-tracker.tk]: statusCode = 403
+[ERROR][12:40:06] [Tracker][c0nsume.me]: statusCode = 400
+[ERROR][12:40:06] [Tracker][ogar-tracker.tk]: statusCode = 403
+[ERROR][12:40:06] [Tracker][c0nsume.me]: statusCode = 400
+[ERROR][12:40:06] [Tracker][c0nsume.me]: statusCode = 400
+[ERROR][12:40:06] [Tracker][ogar-tracker.tk]: statusCode = 403
+[ERROR][12:40:14] [Tracker][ogar-tracker.tk]: Error: connect ETIMEDOUT 195.20.46.84:80
+[ERROR][12:40:17] [Tracker][ogar-tracker.tk]: statusCode = 403
+[ERROR][12:40:17] [Tracker][ogar-tracker.tk]: statusCode = 403
+[ERROR][12:40:17] [Tracker][c0nsume.me]: statusCode = 400
+[ERROR][12:40:17] [Tracker][c0nsume.me]: statusCode = 400
+[ERROR][12:40:17] [Tracker][ogar-tracker.tk]: statusCode = 403
+[ERROR][12:40:17] [Tracker][c0nsume.me]: statusCode = 400
+[ERROR][12:40:17] [Tracker][ogar-tracker.tk]: statusCode = 403
+[ERROR][12:40:17] [Tracker][c0nsume.me]: statusCode = 400
+[NONE ][12:40:24] >minion 78 100
+[NONE ][12:40:24] Added 100 minions for Đαℵᖙƴ ✧
+[ERROR][12:40:25] [Tracker][ogar-tracker.tk]: Error: connect ETIMEDOUT 195.20.46.84:80
+[ERROR][12:40:29] [Tracker][c0nsume.me]: statusCode = 400
+[ERROR][12:40:29] [Tracker][ogar-tracker.tk]: statusCode = 403
+[ERROR][12:40:29] [Tracker][ogar-tracker.tk]: statusCode = 403
+[ERROR][12:40:29] [Tracker][c0nsume.me]: statusCode = 400
+[ERROR][12:40:29] [Tracker][ogar-tracker.tk]: statusCode = 403
+[ERROR][12:40:29] [Tracker][c0nsume.me]: statusCode = 400
+[ERROR][12:40:29] [Tracker][c0nsume.me]: statusCode = 400
+[ERROR][12:40:29] [Tracker][ogar-tracker.tk]: statusCode = 403
+[ERROR][12:40:40] [Tracker][ogar-tracker.tk]: statusCode = 403
+[ERROR][12:40:40] [Tracker][c0nsume.me]: statusCode = 400
+[ERROR][12:40:40] [Tracker][ogar-tracker.tk]: statusCode = 403
+[ERROR][12:40:40] [Tracker][c0nsume.me]: statusCode = 400
+[ERROR][12:40:40] [Tracker][ogar-tracker.tk]: statusCode = 403
+[ERROR][12:40:40] [Tracker][c0nsume.me]: statusCode = 400
+[ERROR][12:40:40] [Tracker][ogar-tracker.tk]: statusCode = 403
+[ERROR][12:40:40] [Tracker][c0nsume.me]: statusCode = 400
+[ERROR][12:40:52] [Tracker][ogar-tracker.tk]: statusCode = 403
+[ERROR][12:40:52] [Tracker][c0nsume.me]: statusCode = 400
+[ERROR][12:40:52] [Tracker][ogar-tracker.tk]: statusCode = 403
+[ERROR][12:40:52] [Tracker][c0nsume.me]: statusCode = 400
+[ERROR][12:40:52] [Tracker][ogar-tracker.tk]: statusCode = 403
+[ERROR][12:40:52] [Tracker][ogar-tracker.tk]: statusCode = 403
+[ERROR][12:40:52] [Tracker][c0nsume.me]: statusCode = 400
+[ERROR][12:40:52] [Tracker][c0nsume.me]: statusCode = 400
+[ERROR][12:41:03] [Tracker][c0nsume.me]: statusCode = 400
+[ERROR][12:41:03] [Tracker][c0nsume.me]: statusCode = 400
+[ERROR][12:41:03] [Tracker][ogar-tracker.tk]: statusCode = 403
+[ERROR][12:41:03] [Tracker][ogar-tracker.tk]: statusCode = 403
+[ERROR][12:41:03] [Tracker][c0nsume.me]: statusCode = 400
+[ERROR][12:41:03] [Tracker][ogar-tracker.tk]: statusCode = 403
+[ERROR][12:41:04] [Tracker][ogar-tracker.tk]: statusCode = 403
+[ERROR][12:41:04] [Tracker][c0nsume.me]: statusCode = 400
+[ERROR][12:41:15] [Tracker][ogar-tracker.tk]: statusCode = 403
+[ERROR][12:41:15] [Tracker][c0nsume.me]: statusCode = 400
+[ERROR][12:41:15] [Tracker][c0nsume.me]: statusCode = 400
+[ERROR][12:41:15] [Tracker][c0nsume.me]: statusCode = 400
+[ERROR][12:41:15] [Tracker][c0nsume.me]: statusCode = 400
+[ERROR][12:41:26] [Tracker][c0nsume.me]: statusCode = 400
+[ERROR][12:41:26] [Tracker][ogar-tracker.tk]: statusCode = 403
+[ERROR][12:41:26] [Tracker][c0nsume.me]: statusCode = 400
+[ERROR][12:41:26] [Tracker][ogar-tracker.tk]: statusCode = 403
+[ERROR][12:41:27] [Tracker][c0nsume.me]: statusCode = 400
+[ERROR][12:41:27] [Tracker][ogar-tracker.tk]: statusCode = 403
+[ERROR][12:41:27] [Tracker][c0nsume.me]: statusCode = 400
+[ERROR][12:41:38] [Tracker][c0nsume.me]: statusCode = 400
+[ERROR][12:41:38] [Tracker][ogar-tracker.tk]: statusCode = 403
+[ERROR][12:41:38] [Tracker][c0nsume.me]: statusCode = 400
+[ERROR][12:41:38] [Tracker][ogar-tracker.tk]: statusCode = 403
+[ERROR][12:41:38] [Tracker][c0nsume.me]: statusCode = 400
+[ERROR][12:41:38] [Tracker][c0nsume.me]: statusCode = 400
+[ERROR][12:41:38] [Tracker][ogar-tracker.tk]: statusCode = 403
+[ERROR][12:41:46] [Tracker][ogar-tracker.tk]: Error: connect ETIMEDOUT 195.20.46.84:80
+[ERROR][12:41:46] [Tracker][ogar-tracker.tk]: Error: connect ETIMEDOUT 195.20.46.84:80
+[ERROR][12:41:46] [Tracker][ogar-tracker.tk]: Error: connect ETIMEDOUT 195.20.46.84:80
+[ERROR][12:41:49] [Tracker][ogar-tracker.tk]: statusCode = 403
+[ERROR][12:41:50] [Tracker][ogar-tracker.tk]: statusCode = 403
+[ERROR][12:41:50] [Tracker][c0nsume.me]: statusCode = 400
+[ERROR][12:41:50] [Tracker][c0nsume.me]: statusCode = 400
+[ERROR][12:41:50] [Tracker][ogar-tracker.tk]: statusCode = 403
+[ERROR][12:41:50] [Tracker][c0nsume.me]: statusCode = 400
+[ERROR][12:41:50] [Tracker][c0nsume.me]: statusCode = 400
+[ERROR][12:41:57] [Tracker][ogar-tracker.tk]: Error: connect ETIMEDOUT 195.20.46.84:80
+[ERROR][12:42:01] [Tracker][ogar-tracker.tk]: statusCode = 403
+[ERROR][12:42:01] [Tracker][c0nsume.me]: statusCode = 400
+[ERROR][12:42:01] [Tracker][ogar-tracker.tk]: statusCode = 403
+[ERROR][12:42:01] [Tracker][c0nsume.me]: statusCode = 400
+[ERROR][12:42:01] [Tracker][ogar-tracker.tk]: statusCode = 403
+[ERROR][12:42:01] [Tracker][c0nsume.me]: statusCode = 400
+[ERROR][12:42:01] [Tracker][ogar-tracker.tk]: statusCode = 403
+[ERROR][12:42:01] [Tracker][c0nsume.me]: statusCode = 400
+[ERROR][12:42:09] [Tracker][ogar-tracker.tk]: Error: connect ETIMEDOUT 195.20.46.84:80
+[ERROR][12:42:12] [Tracker][c0nsume.me]: statusCode = 400
+[ERROR][12:42:12] [Tracker][ogar-tracker.tk]: statusCode = 403
+[ERROR][12:42:12] [Tracker][ogar-tracker.tk]: statusCode = 403
+[ERROR][12:42:12] [Tracker][c0nsume.me]: statusCode = 400
+[ERROR][12:42:13] [Tracker][ogar-tracker.tk]: statusCode = 403
+[ERROR][12:42:13] [Tracker][c0nsume.me]: statusCode = 400
+[ERROR][12:42:13] [Tracker][c0nsume.me]: statusCode = 400
+[ERROR][12:42:21] [Tracker][ogar-tracker.tk]: Error: connect ETIMEDOUT 195.20.46.84:80
+[ERROR][12:42:24] [Tracker][c0nsume.me]: statusCode = 400
+[ERROR][12:42:24] [Tracker][ogar-tracker.tk]: statusCode = 403
+[ERROR][12:42:24] [Tracker][c0nsume.me]: statusCode = 400
+[ERROR][12:42:24] [Tracker][ogar-tracker.tk]: statusCode = 403
+[ERROR][12:42:24] [Tracker][ogar-tracker.tk]: statusCode = 403
+[ERROR][12:42:24] [Tracker][c0nsume.me]: statusCode = 400
+[ERROR][12:42:24] [Tracker][ogar-tracker.tk]: statusCode = 403
+[ERROR][12:42:24] [Tracker][c0nsume.me]: statusCode = 400
+[ERROR][12:42:28] [Tracker][ogar-tracker.tk]: statusCode = 403
+[ERROR][12:42:35] [Tracker][ogar-tracker.tk]: statusCode = 403
+[ERROR][12:42:35] [Tracker][ogar-tracker.tk]: statusCode = 403
+[ERROR][12:42:35] [Tracker][c0nsume.me]: statusCode = 400
+[ERROR][12:42:36] [Tracker][c0nsume.me]: statusCode = 400
+[ERROR][12:42:36] [Tracker][ogar-tracker.tk]: statusCode = 403
+[ERROR][12:42:36] [Tracker][c0nsume.me]: statusCode = 400
+[ERROR][12:42:36] [Tracker][ogar-tracker.tk]: statusCode = 403
+[ERROR][12:42:36] [Tracker][c0nsume.me]: statusCode = 400
+[ERROR][12:42:47] [Tracker][c0nsume.me]: statusCode = 400
+[ERROR][12:42:47] [Tracker][ogar-tracker.tk]: statusCode = 403
+[ERROR][12:42:47] [Tracker][c0nsume.me]: statusCode = 400
+[ERROR][12:42:47] [Tracker][ogar-tracker.tk]: statusCode = 403
+[ERROR][12:42:47] [Tracker][c0nsume.me]: statusCode = 400
+[ERROR][12:42:47] [Tracker][ogar-tracker.tk]: statusCode = 403
+[ERROR][12:42:47] [Tracker][c0nsume.me]: statusCode = 400
+[ERROR][12:42:48] [Tracker][ogar-tracker.tk]: statusCode = 403
+[ERROR][12:42:59] [Tracker][c0nsume.me]: statusCode = 400
+[ERROR][12:42:59] [Tracker][ogar-tracker.tk]: statusCode = 403
+[ERROR][12:42:59] [Tracker][c0nsume.me]: statusCode = 400
+[ERROR][12:42:59] [Tracker][ogar-tracker.tk]: statusCode = 403
+[ERROR][12:42:59] [Tracker][ogar-tracker.tk]: statusCode = 403
+[ERROR][12:42:59] [Tracker][c0nsume.me]: statusCode = 400
+[ERROR][12:42:59] [Tracker][ogar-tracker.tk]: statusCode = 403
+[ERROR][12:42:59] [Tracker][c0nsume.me]: statusCode = 400
+[ERROR][12:43:10] [Tracker][ogar-tracker.tk]: statusCode = 403
+[ERROR][12:43:10] [Tracker][c0nsume.me]: statusCode = 400
+[ERROR][12:43:10] [Tracker][ogar-tracker.tk]: statusCode = 403
+[ERROR][12:43:10] [Tracker][ogar-tracker.tk]: statusCode = 403
+[ERROR][12:43:10] [Tracker][c0nsume.me]: statusCode = 400
+[ERROR][12:43:10] [Tracker][c0nsume.me]: statusCode = 400
+[ERROR][12:43:11] [Tracker][c0nsume.me]: statusCode = 400
+[ERROR][12:43:22] [Tracker][c0nsume.me]: statusCode = 400
+[ERROR][12:43:22] [Tracker][c0nsume.me]: statusCode = 400
+[ERROR][12:43:22] [Tracker][ogar-tracker.tk]: statusCode = 403
+[ERROR][12:43:22] [Tracker][ogar-tracker.tk]: statusCode = 403
+[ERROR][12:43:22] [Tracker][ogar-tracker.tk]: statusCode = 403
+[ERROR][12:43:22] [Tracker][c0nsume.me]: statusCode = 400
+[ERROR][12:43:22] [Tracker][ogar-tracker.tk]: statusCode = 403
+[ERROR][12:43:22] [Tracker][c0nsume.me]: statusCode = 400
+[ERROR][12:43:33] [Tracker][ogar-tracker.tk]: statusCode = 403
+[ERROR][12:43:33] [Tracker][ogar-tracker.tk]: statusCode = 403
+[ERROR][12:43:33] [Tracker][c0nsume.me]: statusCode = 400
+[ERROR][12:43:33] [Tracker][c0nsume.me]: statusCode = 400
+[ERROR][12:43:33] [Tracker][ogar-tracker.tk]: statusCode = 403
+[ERROR][12:43:33] [Tracker][c0nsume.me]: statusCode = 400
+[ERROR][12:43:33] [Tracker][ogar-tracker.tk]: statusCode = 403
+[ERROR][12:43:33] [Tracker][c0nsume.me]: statusCode = 400
+[ERROR][12:43:41] [Tracker][ogar-tracker.tk]: Error: connect ETIMEDOUT 195.20.46.84:80
+[ERROR][12:43:45] [Tracker][c0nsume.me]: statusCode = 400
+[ERROR][12:43:45] [Tracker][ogar-tracker.tk]: statusCode = 403
+[ERROR][12:43:45] [Tracker][c0nsume.me]: statusCode = 400
+[ERROR][12:43:45] [Tracker][ogar-tracker.tk]: statusCode = 403
+[ERROR][12:43:45] [Tracker][c0nsume.me]: statusCode = 400
+[ERROR][12:43:45] [Tracker][ogar-tracker.tk]: statusCode = 403
+[ERROR][12:43:45] [Tracker][c0nsume.me]: statusCode = 400
+[ERROR][12:43:56] [Tracker][c0nsume.me]: statusCode = 400
+[ERROR][12:43:56] [Tracker][ogar-tracker.tk]: statusCode = 403
+[ERROR][12:43:56] [Tracker][c0nsume.me]: statusCode = 400
+[ERROR][12:43:56] [Tracker][ogar-tracker.tk]: statusCode = 403
+[ERROR][12:43:56] [Tracker][c0nsume.me]: statusCode = 400
+[ERROR][12:43:56] [Tracker][ogar-tracker.tk]: statusCode = 403
+[ERROR][12:43:56] [Tracker][c0nsume.me]: statusCode = 400
+[ERROR][12:44:08] [Tracker][c0nsume.me]: statusCode = 400
+[ERROR][12:44:08] [Tracker][ogar-tracker.tk]: statusCode = 403
+[ERROR][12:44:08] [Tracker][ogar-tracker.tk]: statusCode = 403
+[ERROR][12:44:08] [Tracker][ogar-tracker.tk]: statusCode = 403
+[ERROR][12:44:08] [Tracker][c0nsume.me]: statusCode = 400
+[ERROR][12:44:08] [Tracker][c0nsume.me]: statusCode = 400
+[ERROR][12:44:08] [Tracker][ogar-tracker.tk]: statusCode = 403
+[ERROR][12:44:08] [Tracker][c0nsume.me]: statusCode = 400
+[ERROR][12:44:16] [Tracker][ogar-tracker.tk]: Error: connect ETIMEDOUT 195.20.46.84:80
+[ERROR][12:44:19] [Tracker][c0nsume.me]: statusCode = 400
+[ERROR][12:44:19] [Tracker][ogar-tracker.tk]: statusCode = 403
+[ERROR][12:44:19] [Tracker][ogar-tracker.tk]: statusCode = 403
+[ERROR][12:44:19] [Tracker][c0nsume.me]: statusCode = 400
+[ERROR][12:44:19] [Tracker][ogar-tracker.tk]: statusCode = 403
+[ERROR][12:44:19] [Tracker][c0nsume.me]: statusCode = 400
+[ERROR][12:44:19] [Tracker][c0nsume.me]: statusCode = 400
+[ERROR][12:44:27] [Tracker][ogar-tracker.tk]: Error: connect ETIMEDOUT 195.20.46.84:80
+[ERROR][12:44:31] [Tracker][c0nsume.me]: statusCode = 400
+[ERROR][12:44:31] [Tracker][ogar-tracker.tk]: statusCode = 403
+[ERROR][12:44:31] [Tracker][ogar-tracker.tk]: statusCode = 403
+[ERROR][12:44:31] [Tracker][c0nsume.me]: statusCode = 400
+[ERROR][12:44:31] [Tracker][c0nsume.me]: statusCode = 400
+[ERROR][12:44:31] [Tracker][ogar-tracker.tk]: statusCode = 403
+[ERROR][12:44:31] [Tracker][c0nsume.me]: statusCode = 400
+[ERROR][12:44:42] [Tracker][c0nsume.me]: statusCode = 400
+[ERROR][12:44:42] [Tracker][c0nsume.me]: statusCode = 400
+[ERROR][12:44:42] [Tracker][ogar-tracker.tk]: statusCode = 403
+[ERROR][12:44:42] [Tracker][c0nsume.me]: statusCode = 400
+[ERROR][12:44:42] [Tracker][ogar-tracker.tk]: statusCode = 403
+[ERROR][12:44:42] [Tracker][ogar-tracker.tk]: statusCode = 403
+[ERROR][12:44:42] [Tracker][c0nsume.me]: statusCode = 400
+[ERROR][12:44:43] [Tracker][ogar-tracker.tk]: statusCode = 403
+[ERROR][12:44:50] [Tracker][ogar-tracker.tk]: Error: connect ETIMEDOUT 195.20.46.84:80
+[ERROR][12:44:54] [Tracker][c0nsume.me]: statusCode = 400
+[ERROR][12:44:54] [Tracker][ogar-tracker.tk]: statusCode = 403
+[ERROR][12:44:54] [Tracker][ogar-tracker.tk]: statusCode = 403
+[ERROR][12:44:54] [Tracker][c0nsume.me]: statusCode = 400
+[ERROR][12:44:54] [Tracker][c0nsume.me]: statusCode = 400
+[ERROR][12:44:54] [Tracker][ogar-tracker.tk]: statusCode = 403
+[ERROR][12:44:54] [Tracker][c0nsume.me]: statusCode = 400
+[ERROR][12:45:02] [Tracker][ogar-tracker.tk]: Error: connect ETIMEDOUT 195.20.46.84:80
+[ERROR][12:45:05] [Tracker][c0nsume.me]: statusCode = 400
+[ERROR][12:45:05] [Tracker][ogar-tracker.tk]: statusCode = 403
+[ERROR][12:45:05] [Tracker][ogar-tracker.tk]: statusCode = 403
+[ERROR][12:45:06] [Tracker][c0nsume.me]: statusCode = 400
+[ERROR][12:45:06] [Tracker][c0nsume.me]: statusCode = 400
+[ERROR][12:45:06] [Tracker][ogar-tracker.tk]: statusCode = 403
+[ERROR][12:45:06] [Tracker][c0nsume.me]: statusCode = 400
+[ERROR][12:45:17] [Tracker][c0nsume.me]: statusCode = 400
+[ERROR][12:45:17] [Tracker][ogar-tracker.tk]: statusCode = 403
+[ERROR][12:45:17] [Tracker][ogar-tracker.tk]: statusCode = 403
+[ERROR][12:45:17] [Tracker][c0nsume.me]: statusCode = 400
+[ERROR][12:45:17] [Tracker][ogar-tracker.tk]: statusCode = 403
+[ERROR][12:45:17] [Tracker][c0nsume.me]: statusCode = 400
+[ERROR][12:45:17] [Tracker][ogar-tracker.tk]: statusCode = 403
+[ERROR][12:45:17] [Tracker][c0nsume.me]: statusCode = 400
+[ERROR][12:45:25] [Tracker][ogar-tracker.tk]: Error: connect ETIMEDOUT 195.20.46.84:80
+[ERROR][12:45:28] [Tracker][c0nsume.me]: statusCode = 400
+[ERROR][12:45:28] [Tracker][ogar-tracker.tk]: statusCode = 403
+[ERROR][12:45:28] [Tracker][c0nsume.me]: statusCode = 400
+[ERROR][12:45:28] [Tracker][ogar-tracker.tk]: statusCode = 403
+[ERROR][12:45:28] [Tracker][c0nsume.me]: statusCode = 400
+[ERROR][12:45:29] [Tracker][ogar-tracker.tk]: statusCode = 403
+[ERROR][12:45:29] [Tracker][c0nsume.me]: statusCode = 400
+[ERROR][12:45:32] [Tracker][ogar-tracker.tk]: statusCode = 403
+[ERROR][12:45:37] [Tracker][ogar-tracker.tk]: Error: connect ETIMEDOUT 195.20.46.84:80
+[ERROR][12:45:45] [Tracker][c0nsume.me]: statusCode = 400
+[ERROR][12:45:46] [Tracker][c0nsume.me]: statusCode = 400
+[ERROR][12:45:46] [Tracker][c0nsume.me]: statusCode = 400
+[ERROR][12:45:46] [Tracker][ogar-tracker.tk]: statusCode = 403
+[ERROR][12:45:46] [Tracker][ogar-tracker.tk]: statusCode = 403
+[ERROR][12:45:46] [Tracker][c0nsume.me]: statusCode = 400
+[ERROR][12:45:55] [Tracker][ogar-tracker.tk]: statusCode = 403
+[ERROR][12:45:55] [Tracker][c0nsume.me]: statusCode = 400
+[ERROR][12:45:55] [Tracker][ogar-tracker.tk]: statusCode = 403
+[ERROR][12:45:55] [Tracker][c0nsume.me]: statusCode = 400
+[ERROR][12:45:55] [Tracker][c0nsume.me]: statusCode = 400
+[ERROR][12:45:55] [Tracker][c0nsume.me]: statusCode = 400
+[ERROR][12:46:05] [Tracker][c0nsume.me]: statusCode = 400
+[ERROR][12:46:05] [Tracker][ogar-tracker.tk]: statusCode = 403
+[ERROR][12:46:05] [Tracker][ogar-tracker.tk]: statusCode = 403
+[ERROR][12:46:05] [Tracker][c0nsume.me]: statusCode = 400
+[ERROR][12:46:05] [Tracker][ogar-tracker.tk]: statusCode = 403
+[ERROR][12:46:05] [Tracker][c0nsume.me]: statusCode = 400
+[ERROR][12:46:07] [Tracker][c0nsume.me]: statusCode = 400
+[ERROR][12:46:16] [Tracker][ogar-tracker.tk]: Error: connect ETIMEDOUT 195.20.46.84:80
+[ERROR][12:46:16] [Tracker][ogar-tracker.tk]: Error: connect ETIMEDOUT 195.20.46.84:80
+[ERROR][12:46:19] [Tracker][c0nsume.me]: statusCode = 400
+[ERROR][12:46:19] [Tracker][ogar-tracker.tk]: statusCode = 403
+[ERROR][12:46:19] [Tracker][ogar-tracker.tk]: statusCode = 403
+[ERROR][12:46:19] [Tracker][c0nsume.me]: statusCode = 400
+[ERROR][12:46:20] [Tracker][ogar-tracker.tk]: statusCode = 403
+[ERROR][12:46:20] [Tracker][c0nsume.me]: statusCode = 400
+[ERROR][12:46:20] [Tracker][ogar-tracker.tk]: statusCode = 403
+[ERROR][12:46:20] [Tracker][c0nsume.me]: statusCode = 400
+[ERROR][12:46:26] [Tracker][ogar-tracker.tk]: Error: connect ETIMEDOUT 195.20.46.84:80
+[ERROR][12:46:26] [Tracker][ogar-tracker.tk]: Error: connect ETIMEDOUT 195.20.46.84:80
+[ERROR][12:46:36] [Tracker][ogar-tracker.tk]: Error: connect ETIMEDOUT 195.20.46.84:80
+[ERROR][12:46:48] [Tracker][c0nsume.me]: statusCode = 400
+[ERROR][12:46:48] [Tracker][ogar-tracker.tk]: statusCode = 403
+[ERROR][12:46:48] [Tracker][ogar-tracker.tk]: statusCode = 403
+[ERROR][12:46:48] [Tracker][c0nsume.me]: statusCode = 400
+[ERROR][12:46:48] [Tracker][ogar-tracker.tk]: statusCode = 403
+[ERROR][12:46:48] [Tracker][c0nsume.me]: statusCode = 400
+[ERROR][12:46:48] [Tracker][ogar-tracker.tk]: statusCode = 403
+[NONE ][12:47:00] >exit
+[WARN ][12:47:00] Closing server...
+[DEBUG][12:47:00] process.exit(1)
+=== Shutdown 2017-09-10T12-47-00-118 ===

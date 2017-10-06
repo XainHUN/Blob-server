@@ -1,0 +1,14 @@
+=== Started 2017-09-10T11-21-02-836 ===
+[INFO ][11:21:02] [1m[32mMultiOgar 1.3.7[37m - An open source multi-protocol ogar server[0m
+[INFO ][11:21:03] 0 IP ban records loaded.
+[WARN ][11:21:03] User account "Local Administrator" disabled
+[WARN ][11:21:03] User account "Local Moderator" disabled
+[WARN ][11:21:03] User account "Local User" disabled
+[INFO ][11:21:03] 0 user records loaded.
+[INFO ][11:21:03] 25 bad words loaded
+[INFO ][11:21:03] WebSocket: ws
+[ERROR][11:21:03] Stats Server: listen EACCES 0.0.0.0:88
+[ERROR][11:21:03] WebSocket: EACCES - listen EACCES 0.0.0.0:777
+[ERROR][11:21:03] Please make sure you are running Ogar with root privileges.
+[DEBUG][11:21:03] process.exit(1)
+=== Shutdown 2017-09-10T11-21-03-197 ===

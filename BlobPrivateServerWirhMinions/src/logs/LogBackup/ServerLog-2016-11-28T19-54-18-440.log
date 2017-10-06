@@ -1,0 +1,29 @@
+=== Started 2016-11-28T19-48-41-053 ===
+[INFO ][19:48:41] 0 IP ban records loaded.
+[WARN ][19:48:41] User account "Local Administrator" disabled
+[WARN ][19:48:41] User account "Local Moderator" disabled
+[WARN ][19:48:41] User account "Local User" disabled
+[INFO ][19:48:41] 0 user records loaded.
+[INFO ][19:48:41] 25 bad words loaded
+[INFO ][19:48:41] [1m[32mMultiOgar-Edited 1.3.7[37m - An open source multi-protocol ogar server[0m
+[INFO ][19:48:41] WebSocket: ws
+[INFO ][19:48:41] Started stats server on port 88
+[INFO ][19:48:41] Listening on port 777
+[INFO ][19:48:41] Current game mode is Free For All
+[NONE ][19:48:41] CONNECTED    127.0.0.1:49257, origin: "http://agar.io"
+[NONE ][19:48:42] DISCONNECTED 127.0.0.1:49257, code: 1000, reason: "", name: ""
+[NONE ][19:48:42] CONNECTED    127.0.0.1:49261, origin: "http://agar.io"
+[NONE ][19:48:44] DISCONNECTED 127.0.0.1:49261, code: 1000, reason: "", name: ""
+[NONE ][19:48:45] CONNECTED    127.0.0.1:49267, origin: "http://agar.io"
+[NONE ][19:49:07] >minion 17 100 HEART
+[NONE ][19:49:14] >minion 18 100 HEART
+[NONE ][19:49:15] >playerlist
+[NONE ][19:49:15] Current players: 16
+[NONE ][19:49:15] Do "playerlist m" or "pl m" to list minions
+[NONE ][19:49:15]  ID     | IP              | P | NICK            | CELLS | SCORE  | POSITION    
+[NONE ][19:49:15] -------------------------------------------------------------------------------
+[NONE ][19:49:15]      33 | 127.0.0.1       | 9 | BOMB            |     1 |    433 |  4494, -3877
+[NONE ][19:49:19] >minion 33 100 HEART
+[NONE ][19:49:19] Added 100 minions for BOMB
+[NONE ][19:53:56] >minion 33 100 <r>
+[NONE ][19:53:56] Added 100 minions for HEART
